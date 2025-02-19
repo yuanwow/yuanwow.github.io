@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhao Yuan"
-description              : "Sun Yat-sen University"
+description              : ""
 repository               : "yuanwow/yuanwow.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenhao Yuan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Wenhao Yuan_large.png"
   bio              : "Sun Yat-sen University"
   location         : "Guangdong, China"
   employer         :
