@@ -19,12 +19,12 @@ redirect_from:
 
 Hi! I‘m a third-year Master student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
-My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, Large Language MOdels (LLMs), and Mixture of Experts (MoE).
+My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by [TMC'24](https://ieeexplore.ieee.org/abstract/document/10531669). 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by [QSHINE2023](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6) and received the Best Papar Award. 
 
 # 📝 Publications 
 (*= Equal Contribution)
