@@ -46,5 +46,5 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 - *Journal*: IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence.
 - *Conference*: IJCNN'25, CEC'24-25.
 
-{%  # 💻 Internships %}
-{% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. %}
+# 💻 Internships 
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
