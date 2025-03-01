@@ -23,15 +23,11 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by [TMC'24](https://ieeexplore.ieee.org/abstract/document/10531669). 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by [QSHINE2023](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6) and received the Best Papar Award. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by [TMC'24](https://ieeexplore.ieee.org/abstract/document/10531669)! 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by [QSHINE2023](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6) and received the Best Papar Award! 
 
 # 📝 Publications 
 (*= Equal Contribution)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
@@ -39,8 +35,6 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
