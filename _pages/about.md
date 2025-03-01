@@ -31,7 +31,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 
 <li><code class="language-plaintext highlighter-rouge">TMC 2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10531669">Adaptive Federated Learning via New Entropy Approach</a>, Shensheng Zheng*, <strong>Wenhao Yuan*</strong>, Xuehe Wang, Lingjie Duan.</li>
 
-- ``Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
+- ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://arxiv.org/pdf/2408.12076), Shensheng Zheng*, Jun Zhang, ** Wenhao Yuan* **, Xuehe Wang, Lingjie Duan.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
