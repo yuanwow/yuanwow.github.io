@@ -30,7 +30,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 (*= Equal Contribution)
 
 <li><code class="language-plaintext highlighter-rouge">TMC 2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10531669">Adaptive Federated Learning via New Entropy Approach</a>, Shensheng Zheng*, <strong>Wenhao Yuan*</strong>, Xuehe Wang, Lingjie Duan.</li>
-
+- ``AAAI 2025`` [Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst](), **Shijue Huang**, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang, Mingxuan Wang, Mu Qiao, Ruifeng Xu.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
