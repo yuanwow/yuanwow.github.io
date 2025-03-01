@@ -23,8 +23,9 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by [TMC'24](https://ieeexplore.ieee.org/abstract/document/10531669)! 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by [QSHINE2023](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6) and received the Best Papar Award! 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24!
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN'24 (Oral)!
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received the Best Papar Award! 
 
 # 📝 Publications 
 (*= Equal Contribution)
@@ -39,7 +40,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 
 # 📖 Educations
 - *2022.09 - current*, Third-year Master, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
