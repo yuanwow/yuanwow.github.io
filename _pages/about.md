@@ -25,7 +25,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24!
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN'24 <span style="color:red;">Oral</span>! See you in Yokohama!
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received the Best Papar Award! 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received <span style="color:red;">Best Papar Award</span>! See you in Shenzhen!
 
 # 📝 Publications 
 (*= Equal Contribution)
