@@ -29,6 +29,8 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 # 📝 Publications 
 (*= Equal Contribution)
 
+<li><code class="language-plaintext highlighter-rouge">AAAI 2025</code> <a href="">Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst</a>, <strong>Shijue Huang</strong>, Wanjun Zhong, Deng Cai, Fanqi Wan, Chengyi Wang, Mingxuan Wang, Mu Qiao, Ruifeng Xu.</li>
+
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 # 🎖 Honors and Awards
