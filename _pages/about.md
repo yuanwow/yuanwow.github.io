@@ -32,9 +32,9 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 📝 Publications 
 (*= Equal Contribution)
 
-<div class="badge">CVPR 2016</div>
 
-- ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
+
+- ``<div class="badge">CVPR 2016</div>`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 - ``IJCNN 2024`` [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - ``QSHINE 2023`` [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 - ``Preprint`` [FedAgg: Adaptive Federated Learning with Aggregated Gradients](https://arxiv.org/abs/2303.15799), **Wenhao Yuan**, Xuehe Wang.
