@@ -32,12 +32,11 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 📝 Publications 
 (*= Equal Contribution)
 
-- ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan. 
 - <code class="badge">TMC 2024</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
-- ``IJCNN 2024`` [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
-- ``QSHINE 2023`` [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
-- ``Preprint`` [FedAgg: Adaptive Federated Learning with Aggregated Gradients](https://arxiv.org/abs/2303.15799), **Wenhao Yuan**, Xuehe Wang.
-- ``Preprint`` [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning.]([https://arxiv.org/abs/2303.15799](https://arxiv.org/abs/2412.05636)), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">IJCNN 2024</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">QSHINE 2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">Preprint</code> [FedAgg: Adaptive Federated Learning with Aggregated Gradients](https://arxiv.org/abs/2303.15799), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">Preprint</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning.]([https://arxiv.org/abs/2303.15799](https://arxiv.org/abs/2412.05636)), **Wenhao Yuan**, Xuehe Wang.
 
 # 🎖 Honors and Awards
 - National Scholarship (2024) 
