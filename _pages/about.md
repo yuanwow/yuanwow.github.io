@@ -21,7 +21,7 @@ Hi! I‘m a third-year Master student in the [School of Artificial Intelligence]
 
 My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
 
-Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), 
+Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
 
 
 # 🔥 News
