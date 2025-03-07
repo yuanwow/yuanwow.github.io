@@ -39,10 +39,10 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - <code class="badge">Preprint</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning.](https://arxiv.org/abs/2412.05636)), **Wenhao Yuan**, Xuehe Wang.
 
 # 🎖 Honors and Awards
-- National Scholarship (2024) 
+- **National Scholarship** (2024) 
 - Excellent Graduate Academic Scholarship (2022-2024)
 - SYSU Excellent Teaching Assistant (2024)
-- The 19th China Post-Graduate Mathematical Contest in Modeling, National Third Prize (Dec. 2022)
+- The 19th China Post-Graduate Mathematical Contest in Modeling, **National Third Prize** (Dec. 2022)
 
 # 📖 Educations
 - *2022.09 - current*, Third-year Master, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
