@@ -30,7 +30,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 # 📝 Publications 
 (*= Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
