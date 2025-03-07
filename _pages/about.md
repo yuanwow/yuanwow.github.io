@@ -32,7 +32,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 📝 Publications 
 (*= Equal Contribution)
 
-<div class="badge">CVPR 2016</div>
+
 
 - <div class="badge">TMC 2024</div> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 
