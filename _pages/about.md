@@ -21,6 +21,8 @@ Hi! I‘m a third-year Master student in the [School of Artificial Intelligence]
 
 My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
 
+Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), 
+
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24!
@@ -30,8 +32,7 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 # 📝 Publications 
 (*= Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="badge">CVPR 2016</div>
 
 - ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 - ``IJCNN 2024`` [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
