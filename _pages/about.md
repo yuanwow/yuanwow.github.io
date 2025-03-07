@@ -30,6 +30,9 @@ My research interest includes Distributed Optimization (e.g., Federated Learning
 # 📝 Publications 
 (*= Equal Contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - ``TMC 2024`` [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 - ``IJCNN 2024`` [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - ``QSHINE 2023`` [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
