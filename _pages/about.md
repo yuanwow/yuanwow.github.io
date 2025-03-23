@@ -50,7 +50,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
 
 # 💁 Academic Service
-- *Journal*: IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence.
+- *Journal*: IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Communications, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence.
 - *Conference*: IJCNN'25, CEC'24-25.
 
 # 💻 Internships 
