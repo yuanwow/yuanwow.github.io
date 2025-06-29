@@ -286,13 +286,11 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
-	    <p>[05.2025] 📕 I am selected for the “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>” of China Education Development Foundation (93 recipients nationwide).</p>
-	    <p>[05.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU.</p>
-	    <p>[05.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
-	    <p>[05.2025] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
-	    <p>[04.2025] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong>! See you in Yokohama!</p>
-	    <p>[04.2025] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received </strong>Best Papar Award</strong>! See you in Shenzhen!</p>
+	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU.</p>
+	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
+	    <p>[05.2024] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
+	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong>! See you in Yokohama!</p>
+	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received </strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
 	</div>
  
