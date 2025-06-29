@@ -1,322 +1,484 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-html {
-  /* sticky footer fix */
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  padding-bottom: 0em;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
-
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
+   html {
+    /* sticky footer fix */
+    position: relative;
+    min-height: 100%;
   }
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
-  line-height: 1.2;
-  font-family: $header-font-family;
-  font-weight: bold;
-}
-
-h1 {
-  // margin: 4em 0 0.5em;
-  margin-top: 1em;
-  font-size: $type-size-3;
-}
-
-h2 {
-  font-size: $type-size-4;
-}
-
-h3 {
-  font-size: $type-size-5;
-}
-
-h4 {
-  font-size: $type-size-6;
-}
-
-h5 {
-  font-size: $type-size-6;
-}
-
-h6 {
-  font-size: $type-size-6;
-}
-
-small, .small {
-  font-size: $type-size-6;
-}
-
-p {
-  margin-bottom: 0.5em;
-}
-
-u,
-ins {
-  text-decoration: none;
-  border-bottom: 1px solid $text-color;
-  a {
-    color: inherit;
-  }
-}
-
-ul {
-  padding-inline-start: 2em;
-  margin-block-start: 0.5em;
-}
-
-del a {
-  color: inherit;
-}
-
-/* reduce orphans and widows when printing */
-
-p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  orphans: 3;
-  widows: 3;
-}
-
-/* abbreviations */
-
-abbr[title],
-abbr[data-original-title] {
-  text-decoration: none;
-  cursor: help;
-  border-bottom: 1px dotted $text-color;
-}
-
-/* blockquotes */
-
-blockquote {
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-style: italic;
-  border-left: 0.25em solid $primary-color;
-
-  cite {
-    font-style: italic;
-
-    &:before {
-      content: "\2014";
-      padding-right: 5px;
-    }
-  }
-}
-
-/* links */
-
-a {
   
-  &:focus {
-    @extend %tab-focus;
+  /* Global Style Variables */
+  :root {
+    --gradient-bg: linear-gradient(145deg, #ffffff, #f8f9fa);
+    --box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+    --hover-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    --border-radius: 10px;  // 稍微减小圆角
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --spacing-unit: 1.4rem;  // 减小基础间距单位
   }
-
-  &:hover,
-  &:active {
-    outline: 0;
-  }
-}
-
-/* code */
-
-tt, code, kbd, samp, pre {
-  font-family: $monospace;
-}
-
-pre {
-  overflow-x: auto; /* add scrollbars to wide code blocks*/
-}
-
-p > code,
-a > code,
-li > code,
-figcaption > code,
-td > code {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
-  font-size: $type-size-6;
-  background: $code-background-color;
-  border: 1px solid $lighter-gray;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
-
-  &:before, &:after {
-    letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
-  }
-}
-
-/* horizontal rule */
-
-hr {
-  display: block;
-  margin: 1em 0;
-  border: 0;
-  border-top: 1px solid $border-color;
-}
-
-/* lists */
-
-ul li,
-ol li {
-  margin-bottom: 0.5em;
-}
-
-li ul,
-li ol {
-  margin-top: 0.5em;
-}
-
-/*
-   Media and embeds
-   ========================================================================== */
-
-/* Figures and images */
-
-figure {
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: start;
-          align-items: flex-start;
-  flex-wrap: wrap;
-  margin: 2em 0;
-
-  img,
-  iframe,
-  .fluid-width-video-wrapper {
-    margin-bottom: 1em;
-  }
-
-  img {
-    width: 100%;
-    border-radius: $border-radius;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-  }
-
-  > a {
-    display: block;
-  }
-
-  &.half {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(50% - 0.5em);
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-
-  &.third {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(33.3333% - 0.5em);
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-}
-
-/* Figure captions */
-
-figcaption {
-  margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
-  font-family: $caption-font-family;
-  font-size: $type-size-6;
-
-  a {
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid $light-gray;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-
-    &:hover {
-      color: #000;
-      border-bottom-color: #000;
-    }
-  }
-}
-
-
-/* Fix IE9 SVG bug */
-
-svg:not(:root) {
-  overflow: hidden;
-}
-
-
-/*
-   Navigation lists
-   ========================================================================== */
-
-/**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
-
-nav {
-  ul {
+  
+  body {
     margin: 0;
     padding: 0;
+    padding-bottom: 0em;
+    color: $text-color;
+    font-family: $global-font-family;
+    line-height: 1.5;
+  
+    &.overflow--hidden {
+      /* when primary navigation is visible, the content in the background won't scroll */
+      overflow: hidden;
+    }
   }
-
-  li {
-    list-style: none;
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 0.5em;
+    line-height: 1.2;
+    font-family: $header-font-family;
+    font-weight: bold;
   }
-
-  a {
+  
+  h1 {
+    // margin: 4em 0 0.5em;
+    margin-top: 1em;
+    font-size: $type-size-3;
+  }
+  
+  h2 {
+    font-size: $type-size-4;
+  }
+  
+  h3 {
+    font-size: $type-size-5;
+  }
+  
+  h4 {
+    font-size: $type-size-6;
+  }
+  
+  h5 {
+    font-size: $type-size-6;
+  }
+  
+  h6 {
+    font-size: $type-size-6;
+  }
+  
+  small, .small {
+    font-size: $type-size-6;
+  }
+  
+  p {
+    margin-bottom: 0.5em;
+  }
+  
+  u,
+  ins {
     text-decoration: none;
+    border-bottom: 1px solid $text-color;
+    a {
+      color: inherit;
+    }
   }
-
-  /* override white-space for nested lists */
+  
+  ul {
+    padding-inline-start: 2em;
+    margin-block-start: 0.5em;
+  }
+  
+  del a {
+    color: inherit;
+  }
+  
+  /* reduce orphans and widows when printing */
+  
+  p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+    orphans: 3;
+    widows: 3;
+  }
+  
+  /* abbreviations */
+  
+  abbr[title],
+  abbr[data-original-title] {
+    text-decoration: none;
+    cursor: help;
+    border-bottom: 1px dotted $text-color;
+  }
+  
+  /* blockquotes */
+  
+  blockquote {
+    margin: 2em 1em 2em 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-style: italic;
+    border-left: 0.25em solid $primary-color;
+  
+    cite {
+      font-style: italic;
+  
+      &:before {
+        content: "\2014";
+        padding-right: 5px;
+      }
+    }
+  }
+  
+  /* links */
+  
+  a {
+    color: $primary-color;
+    text-decoration: none;
+    position: relative;
+    transition: var(--transition);
+    
+    &:after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      bottom: -2px;
+      left: 0;
+      background-color: #FE667B;
+      transform: scaleX(0);
+      transform-origin: bottom right;
+      transition: transform 0.3s ease-out;
+    }
+    
+    &:hover {
+      color: #FE667B;
+      
+      &:after {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+      }
+    }
+  }
+  
+  /* code */
+  
+  tt, code, kbd, samp, pre {
+    font-family: $monospace;
+  }
+  
+  pre {
+    overflow-x: auto; /* add scrollbars to wide code blocks*/
+  }
+  
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code {
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    font-size: $type-size-6;
+    background: $code-background-color;
+    border: 1px solid $lighter-gray;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+  
+    &:before, &:after {
+      letter-spacing: -0.2em;
+      content: "\00a0"; /* non-breaking space*/
+    }
+  }
+  
+  /* horizontal rule */
+  
+  hr {
+    display: block;
+    margin: 1em 0;
+    border: 0;
+    border-top: 1px solid $border-color;
+  }
+  
+  /* lists */
+  
   ul li,
   ol li {
-    margin-bottom: 0;
+    margin-bottom: 0.5em;
   }
-
+  
   li ul,
   li ol {
-    margin-top: 0;
+    margin-top: 0.5em;
   }
-}
+  
+  /*
+     Media and embeds
+     ========================================================================== */
+  
+  /* Figures and images */
+  
+  figure {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: start;
+            align-items: flex-start;
+    flex-wrap: wrap;
+    margin: 2em 0;
+  
+    img,
+    iframe,
+    .fluid-width-video-wrapper {
+      margin-bottom: 1em;
+    }
+  
+    img {
+      width: 100%;
+      border-radius: $border-radius;
+      -webkit-transition: $global-transition;
+      transition: $global-transition;
+    }
+  
+    > a {
+      display: block;
+    }
+  
+    &.half {
+      > a,
+      > img {
+        @include breakpoint($small) {
+          width: calc(50% - 0.5em);
+        }
+      }
+  
+      figcaption {
+        width: 100%;
+      }
+    }
+  
+    &.third {
+      > a,
+      > img {
+        @include breakpoint($small) {
+          width: calc(33.3333% - 0.5em);
+        }
+      }
+  
+      figcaption {
+        width: 100%;
+      }
+    }
+  }
+  
+  /* Figure captions */
+  
+  figcaption {
+    margin-bottom: 0.5em;
+    color: mix(#fff, $text-color, 25%);
+    font-family: $caption-font-family;
+    font-size: $type-size-6;
+  
+    a {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px solid $light-gray;
+      -webkit-transition: $global-transition;
+      transition: $global-transition;
+  
+      &:hover {
+        color: #000;
+        border-bottom-color: #000;
+      }
+    }
+  }
+  
+  
+  /* Fix IE9 SVG bug */
+  
+  svg:not(:root) {
+    overflow: hidden;
+  }
+  
+  
+  /*
+     Navigation lists
+     ========================================================================== */
+  
+  /**
+   * Removes margins, padding, and bullet points from navigation lists
+   *
+   * Example usage:
+   * <nav>
+   *    <ul>
+   *      <li><a href="#link-1">Link 1</a></li>
+   *      <li><a href="#link-2">Link 2</a></li>
+   *      <li><a href="#link-3">Link 3</a></li>
+   *    </ul>
+   *  </nav>
+   */
+  
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+    }
+  
+    li {
+      list-style: none;
+    }
+  
+    a {
+      text-decoration: none;
+    }
+  
+    /* override white-space for nested lists */
+    ul li,
+    ol li {
+      margin-bottom: 0;
+    }
+  
+    li ul,
+    li ol {
+      margin-top: 0;
+    }
+  }
+  
+  /*
+     Global animation transition
+     ========================================================================== */
+  
+  b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+  }
+  
+  /* Highlight Blocks */
+  .highlight-blocks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--spacing-unit);
+    margin: calc(var(--spacing-unit) * 0.8) 0;
+  }
+  
+  .highlight-block {
+    padding: var(--spacing-unit) calc(var(--spacing-unit) * 1.2);  // 增加左右内边距
+    background: var(--gradient-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+    border: 1px solid rgba(1, 47, 99, 0.08);
+    margin-bottom: calc(var(--spacing-unit) * 0.6);  // 减小下方间距
+  
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--hover-shadow);
+    }
+  
+    h3 {
+      margin-top: 0;
+      margin-bottom: calc(var(--spacing-unit) * 0.5);  // 减小标题下方间距
+      color: $primary-color;
+      font-size: 1.3em;
+      font-weight: 600;
+    }
+  
+    ul {
+      margin: 0;
+      padding-left: calc(var(--spacing-unit) * 0.8);  // 调整列表缩进
+      
+      li {
+        margin-bottom: calc(var(--spacing-unit) * 0.3);  // 减小列表项间距
+        color: $text-color;
+        line-height: 1.4;  // 稍微减小行高
+      }
+    }
+  }
+  
+  /* Enhanced Paper Box */
+  .paper-box {
+    background: var(--gradient-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+    border: 1px solid rgba(1, 47, 99, 0.08);
+    padding: var(--spacing-unit) calc(var(--spacing-unit) * 1.2);  // 增加左右内边距
+    margin: calc(var(--spacing-unit) * 0.8) 0;  // 减小外边距
+    display: flex; 
+    flex-direction: row;  // 确保是水平方向的flex
+    align-items: flex-start;
+  
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--hover-shadow);
+    }
+  
+    .paper-box-image {
+      margin: 0 calc(var(--spacing-unit) * 1.2);  // 增加图片区域的左右margin
+      
+      img {
+        width: 100%;
+        border-radius: calc(var(--border-radius) * 0.75);
+      }
+    }
+    
+    .paper-box-text {
+      flex: 1;          // 让文字部分占据剩余空间
+      margin: 0 calc(var(--spacing-unit) * 1.2);  // 增加文字区域的左右margin
+      
+      h2 {
+        margin-top: calc(var(--spacing-unit) * 0.4);  // 减小标题上方间距
+      }
+    }
+  
+    .badge {
+      background-color: $success-color;
+      color: white;
+      padding: 0.2em 0.8em;  // 稍微减小badge的内边距
+      border-radius: 4px;
+      font-size: 0.8em;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      box-shadow: 0 2px 8px rgba(254, 102, 123, 0.15);
+    }
+  }
+  
+  /* Section Headers */
+  h1, h2, h3 {
+    position: relative;
+    padding-left: calc(var(--spacing-unit) * 0.6);  // 减小左内边距
+    margin: calc(var(--spacing-unit) * 0.8) 0 calc(var(--spacing-unit) * 0.6);  // 减小上下margin
+    
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 15%;
+      height: 70%;
+      width: 4px;
+      background: $primary-color;
+      border-radius: 2px;
+    }
+  }
+  
+  /* List Items Enhancement */
+  ul:not(.highlight-block ul) {
+    li {
+      position: relative;
+      padding: 0.4rem 0;  // 减小列表项内边距
+      transition: var(--transition);
+      
+      &:hover {
+        transform: translateX(5px);
+      }
+    }
+  }
 
-/*
-   Global animation transition
-   ========================================================================== */
+  /* Paper Box Link Hover */
+  .paper-box-text {
+    a:hover {
+      color: #FE667B;
+    }
+  }
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
-}
+  /* Highlight Block Link Hover */
+  .highlight-block {
+    a:hover {
+      color: #FE667B;
+    }
+  }
