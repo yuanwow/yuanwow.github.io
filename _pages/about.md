@@ -303,6 +303,8 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - <code class="badge">QSHINE 2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">Preprint</code> [FedAgg: Adaptive Federated Learning with Aggregated Gradients](https://arxiv.org/abs/2303.15799), **Wenhao Yuan**, Xuehe Wang.
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - **SYSU Excellent Graduate** (2025) 
 - **National Scholarship** (2024) 
@@ -314,7 +316,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - *2022.09 - current*, Third-year Master, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
 
-<span class='anchor' id='services'></span>
+<span class='anchor' id='academic-services'></span>
 
 # 💁 Academic Service
 #### Journal reviewer
