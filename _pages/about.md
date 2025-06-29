@@ -295,8 +295,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-	    <p>[05.2025] 📕 I am selected for the “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>” of China Education Development Foundation (93 recipients nationwide).</p>
-	    <p>[05.2025] 🎉 One paper <strong>INIF</strong> was accepted by <strong>Nature Computational Science</strong> (CAS-Q1).</p>
+	    <p>[05.2025] 🎉🎉 One paper <strong>INIF</strong> was accepted by <strong>Nature Computational Science</strong> (CAS-Q1).</p>
 	    <p>[05.2025] 🎉 One paper <strong>UTMP</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[05.2025] 🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
