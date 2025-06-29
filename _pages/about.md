@@ -290,7 +290,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 {% - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ToN'25! %}
 {% - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24! %}
 {% - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN'24 <span style="color:red;">Oral</span>! See you in Yokohama! %}
-{% - *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received <span style="color:red;">Best Papar Award</span>! See you in Shenzhen! %}
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received <span style="color:red;">Best Papar Award</span>! See you in Shenzhen!
 
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
