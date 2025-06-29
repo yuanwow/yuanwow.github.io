@@ -298,8 +298,8 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 	    <p>[06.2025] 🎉🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>).</p>
 	    <p>[03.2025] 🎉🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author.</p>
 	    <p>[05.2024] 🎉🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author.</p>
-	    <p>[03.2024] 🎉🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24</strong> as first author! See you in Yokohama!</p>
-	    <p>[10.2023] 🎉🎉 One paper was accepted by <strong>QSHINE'23</strong> and received Best Papar Award! See you in Shenzhen!</p>
+	    <p>[03.2024] 🎉🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 (Oral)</strong> as first author! See you in Yokohama!</p>
+	    <p>[10.2023] 🎉🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award<strong>! See you in Shenzhen!</p>
 	    <p>[04.2025] 🎉🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
