@@ -286,50 +286,11 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 
 # 🔥 News
-<div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  <div style="height:200px; width:100%; overflow:auto;">
-	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
-	    <p>[06.2025] 🎉🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>).</p>
-	    <p>[03.2025] 🎉🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author.</p>
-	    <p>[05.2024] 🎉🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author.</p>
-	    <p>[03.2024] 🎉🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong> as first author! See you in Yokohama!</p>
-	    <p>[10.2023] 🎉🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award<strong>! See you in Shenzhen!</p>
-	    <p>[05.2025] 📕 I am selected for the “<strong>Endeavor Scholarship — Integrated Circuit Talent Development Program</strong>” of China Education Development Foundation (93 recipients nationwide).</p>
-	    <p>[05.2025] 🎉 One paper <strong>INIF</strong> was accepted by <strong>Nature Computational Science</strong> (CAS-Q1).</p>
-	    <p>[05.2025] 🎉 One paper <strong>UTMP</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
-	    <p>[05.2025] 🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
-	    <p>[04.2025] 🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
-	    <p>[04.2025] 🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
-	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
-	    <p>[01.2025] 📕 I am selected for the First session “<strong>Young Talent Support Project Doctoral Special Program</strong>” of China Association for Science and Technology (3,226 recipients nationwide)</p>
-	    <p>[12.2024] 🎉 One paper <strong>BEVUDA++</strong> was accepted by <strong>IEEE TCSVT</strong> (CAS-Q1) as first author.</p>
-	    <p>[12.2024] 🎉 One paper <strong>PAT</strong> was accepted by <strong>AAAI 2025</strong> (CCF-A).</p>
-	    <p>[12.2024] 🏅 I was named <strong>"Outstanding Ph.D. Candidate"</strong> by NJU.</p>
-	    <p>[11.2024] 💰 I was offered <strong>"Bank of Jiangsu"</strong> Scholarship from NJU.</p>
-	    <p>[09.2024] 💻 The Panasonic Corporation is integrating the <strong>VeCAF</strong> (MM'24) into its actual business operations.</p>
-	    <p>[08.2024] 💼 I joined the Beijing Academy of Artificial Intelligence supervised by <a class="blue-text" href="https://www.shanghangzhang.com/" target="_blank"><strong>Prof. Shanghang Zhang</strong></a>.</p>
-	    <p>[07.2024] 🎉 One paper <strong>VeCAF</strong> was accepted by <strong>ACMMM 2024</strong> (CCF-A) as first author.</p>
-	    <p>[07.2024] 🎓 I am offered a <strong>dual Ph.D.</strong> at The Hong Kong Polytechnic University supervised by <a class="blue-text" href="https://web.comp.polyu.edu.hk/csdwang/" target="_blank"><strong>Prof. Dan Wang</strong></a>.</p>
-	    <p>[05.2024] 🎉 One paper <strong>MuPFL</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
-	    <p>[04.2024] 📕 Our project: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation, has been selected as one of the <strong>Jiangsu Province Graduate Research and Practical Innovation Projects</strong>.</p>
-	    <p>[03.2024] 💻 The Panasonic Corporation is integrating the <strong>MoFME</strong> (AAAI'24) into its actual business operations.</p>
-	    <p>[01.2024] 🎉 One paper <strong>BEVUDA</strong> was accepted by <strong>IEEE ICRA 2024</strong> (CCF-B) as first author.</p>
-	    <p>[12.2023] 🎉 One paper <strong>MoFME</strong> was accepted by <strong>AAAI 2024</strong> (CCF-A) as first author.</p>
-	    <p>[08.2023] 🏅 We won <strong>2nd place</strong> in the SHIFT Challenge 2023 - Continuous Test-time Adaptation for Semantic Segmentation in the challenges of VCL Workshop, ICCV2023.</p>
-	    <p>[06.2023] 🎓 I joined the ISCL lab at <strong>Nanjing University</strong> and the HMI Lab of the NATIONAL ENGINEERING RESEARCH CENTER OF VISUAL TECHNOLOGY at <strong>Peking University</strong> as a joint Ph.D. student.</p>
-	    <p>[03.2023] 🎓 I received <strong>M.Phil.</strong> degree from <strong>The Chinese University of Hong Kong, Shenzhen</strong></p>
-	    <p>[03.2023] 🎉 One paper <strong>RepCaM</strong> was accepted by <strong>ACM NOSSDAV 2023</strong> (CCF-B) as first author.</p>
-	    <p>[03.2023] 🎉 One paper <strong>CdFed</strong> was accepted by <strong>IEEE ICME 2023</strong> (CCF-B) as first author.</p>
-	    <p>[03.2023] 🎉 One paper <strong>FedFHN</strong> was accepted by <strong>IEEE Network</strong> (CAS-Q2) as first author.</p>
-	    <p>[03.2023] 🎉 One paper <strong>FedAB</strong> was accepted by <strong>IEEE IoTJ</strong> (CAS-Q1).</p>
-	    <p>[03.2023] 🎉 Two papers <strong>BEVSAN</strong> and <strong>CDCCA</strong> were accepted by <strong>IEEE CVPR 2023</strong> (CCF-A).</p>
-	    <p>[09.2022] 💼 I joined <strong>OPPO Research</strong> as a Research Intern.</p>
-	    <p>[08.2021] 🎓 I joined INML lab at <strong>The Chinese University of Hong Kong, Shenzhen</strong> as an <strong>M.Phil.</strong> student.</p>
-	  </div>
-	</div>
- 
-<br>
-<br>
+- *2025.06*: &nbsp;🎉🎉 Honored to be selected as Excellent Graduate in SYSU (**Top 5%**)!
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ToN'25!
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24!
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN'24 <span style="color:red;">Oral</span>! See you in Yokohama!
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by QSHINE'23 and received <span style="color:red;">Best Papar Award</span>! See you in Shenzhen!
 
 
 # 📝 Publications 
