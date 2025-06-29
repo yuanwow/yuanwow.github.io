@@ -286,8 +286,6 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 
 # 🔥 News
-
-
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <h4>📌 We have several academic intern positions at HMI Lab (Peking University). We actively work on AI4Science and Embodied AI. If you like what we do, don't hesitate to contact me.</h4>
