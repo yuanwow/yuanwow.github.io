@@ -314,9 +314,23 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - *2022.09 - current*, Third-year Master, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
 
+<span class='anchor' id='services'></span>
+
 # 💁 Academic Service
-- *Journal*: IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Communications, Future Generation Computer Systems, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence.
-- *Conference*: IJCNN'25, CEC'24-25.
+#### Journal reviewer
+- IEEE Transactions on Mobile Computing,
+- IEEE Transactions on Parallel and Distributed Systems,
+- IEEE Transactions on Communications,
+- Future Generation Computer Systems,
+- Knowledge-Based Systems,
+- Neural Networks,
+- Engineering Applications of Artificial Intelligence.
+
+#### Conference reviewer
+- IJCNN'25
+- CEC'24-25.
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships 
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
