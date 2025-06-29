@@ -296,10 +296,10 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <p>[06.2025] 🎉🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>).</p>
-	    <p>[05.2025] 🎉🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author.</p>
-	    <p>[05.2025] 🎉🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author.</p>
-	    <p>[05.2025] 🎉🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24</strong>! See you in Yokohama!</p>
-	    <p>[04.2025] 🎉🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
+	    <p>[03.2025] 🎉🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author.</p>
+	    <p>[05.2024] 🎉🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author.</p>
+	    <p>[03.2024] 🎉🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24</strong>! See you in Yokohama!</p>
+	    <p>[10.2023] 🎉🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
 	    <p>[03.2025] 💻 <strong>PAT</strong> (AAAI'25) has been applied to Samsung’s on-device applications for smartphones and TVs.</p>
