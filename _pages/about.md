@@ -286,7 +286,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Honored to be selected as Excellent Graduate in SYSU (**Top 5%**)!
+{% - *2025.06*: &nbsp;🎉🎉 Honored to be selected as Excellent Graduate in SYSU (**Top 5%**)! %}
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ToN'25!
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TMC'24!
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN'24 <span style="color:red;">Oral</span>! See you in Yokohama!
