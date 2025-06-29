@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🍾 Biography
-Hi! I’m a third-year Master student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
+Hi! I’m a third-year Master's student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
 My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
 
@@ -37,7 +37,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 	  <div style="height:200px; width:100%; overflow:auto;">
 	    <p>[06.2025] 🎉🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%<strong>)!</p>
 	    <p>[03.2025] 🎉🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author.</p>
-	    <p>[05.2025] 🎉🎉 One paper <strong>EVA</strong> was accepted by <strong>ICML 2025</strong> (CCF-A).</p>
+	    <p>[05.2025] 🎉🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author..</p>
 	    <p>[04.2025] 🎉🎉 One paper <strong>FBQuant</strong> was accepted by <strong>IJCAI 2025</strong> (CCF-A).</p>
 	    <p>[04.2025] 🎉🎉 One paper <strong>RepCaM++</strong> was accepted by <strong>IEEE TMC</strong> (CCF-A) as first author.</p>
 	  </div>
