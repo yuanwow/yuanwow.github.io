@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296995);</script> <script async src="//static.getclicky.com/js"></script> <style> :root { --theme-color: #EC707D; /* 确保这是一个有效的颜色 */ --venue-bg-color: rgb(108, 149, 181); }
+
 Hi! I’m a third-year Master student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
 My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
