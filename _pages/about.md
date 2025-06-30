@@ -24,17 +24,6 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
 
-<div class="highlight-blocks">
-  <div class="highlight-block">
-    <h3>🔬 AI Researcher</h3>
-    <ul>
-      <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
-      <li>Efficiency: Dynamic Neural Network</li>
-      <li>Multimodal Generalization: Embodied AI including Robotics and Autonomous Driving</li>
-    </ul>
-  </div>
-</div>
-
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
