@@ -30,7 +30,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU.</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
 	    <p>[05.2024] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
-	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong>! See you in Yokohama!</p>
+	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong> as first author! See you in Yokohama!</p>
 	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
@@ -63,13 +63,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 # 💁 Academic Service
 #### Journal reviewer
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Parallel and Distributed Systems
-- IEEE Transactions on Communications
-- Future Generation Computer Systems
-- Knowledge-Based Systems
-- Neural Networks
-- Engineering Applications of Artificial Intelligence
+IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Communications, Future Generation Computer Systems, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence
 
 #### Conference reviewer
 - IJCNN'25
