@@ -66,8 +66,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Communications, Future Generation Computer Systems, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence
 
 #### Conference reviewer
-- IJCNN'25
-- CEC'24-25
+IJCNN'25, CEC'24-25
 
 <span class='anchor' id='internships'></span>
 
