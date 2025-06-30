@@ -56,7 +56,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - The 19th China Post-Graduate Mathematical Contest in Modeling, **National Third Prize** (Dec. 2022)
 
 # 📖 Educations
-- *2022.09 - current*, Third-year Master, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
+- *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
 
 <span class='anchor' id='academic-services'></span>
