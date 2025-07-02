@@ -62,10 +62,10 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 <span class='anchor' id='academic-services'></span>
 
 # 💁 Academic Service
-#### Journal reviewer
+- #### Journal reviewer
 IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Communications, Future Generation Computer Systems, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence
 
-#### Conference reviewer
+- #### Conference reviewer
 IJCNN'25, CEC'24-25
 
 <span class='anchor' id='internships'></span>
