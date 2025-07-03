@@ -24,8 +24,6 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
 
-<br>
-
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
