@@ -20,7 +20,9 @@ redirect_from:
 # 🍾 Biography
 Hi! I’m a third-year Master's student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
-My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs). Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
+My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs). 
+
+Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
