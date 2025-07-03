@@ -66,13 +66,10 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 
 # 💁 Academic Service
 #### Journal reviewer
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Parallel and Distributed Systems
-- IEEE Transactions on Communications
-- Future Generation Computer Systems
-- Knowledge-Based Systems
-- Neural Networks
-- Engineering Applications of Artificial Intelligence
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Communications (TCOM)
+- Future Generation Computer Systems (FGCS)
 
 #### Conference reviewer
 - International Joint Conference on Neural Networks (IJCNN), 2025
