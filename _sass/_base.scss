@@ -146,8 +146,7 @@
       transition: transform 0.3s ease-out;
     }
     
-    &:hover {
-      color: #FE667B;
+    &:hover,
       
       &:after {
         transform: scaleX(1);
