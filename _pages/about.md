@@ -24,7 +24,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
 
-Here is [School of Artificial Intelligence](https://sai.sysu.edu.cn/), and she is also doing some awesome work on FL and LLMs!
+<br>
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
@@ -38,7 +38,10 @@ Here is [School of Artificial Intelligence](https://sai.sysu.edu.cn/), and she i
 	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
 	</div>
- 
+
+<br>
+<br>
+
 # 📝 Publications 
 (*= Equal Contribution)
 
@@ -47,6 +50,8 @@ Here is [School of Artificial Intelligence](https://sai.sysu.edu.cn/), and she i
 - <code class="badge">IJCNN 2024</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE 2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">Preprint</code> [FedAgg: Adaptive Federated Learning with Aggregated Gradients](https://arxiv.org/abs/2303.15799), **Wenhao Yuan**, Xuehe Wang.
+
+<br>
 
 <span class='anchor' id='honors-and-awards'></span>
 
@@ -57,9 +62,13 @@ Here is [School of Artificial Intelligence](https://sai.sysu.edu.cn/), and she i
 - SYSU Excellent Teaching Assistant (2024)
 - The 19th China Post-Graduate Mathematical Contest in Modeling, **National Third Prize** (Dec. 2022)
 
+<br>
+
 # 📖 Educations
 - *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
+
+<br>
 
 <span class='anchor' id='academic-services'></span>
 
@@ -69,6 +78,8 @@ IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distrib
 
 - #### Conference reviewer
 IJCNN'25, CEC'24-25
+
+<br>
 
 <span class='anchor' id='internships'></span>
 
