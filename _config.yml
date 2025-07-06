@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenhao Yuan (袁文皓)"
+  name             : "Wenhao Yuan"
   avatar           : "images/Wenhao Yuan_large.png"
   bio              : "Sun Yat-sen University"
   location         : "Guangdong, China"
