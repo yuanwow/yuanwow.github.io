@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🍾 Biography
-Hi! I obtained my Master's Degree in Computer Science and Technology in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234) and obtained my B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
+Hi! I obtained my Master's Degree in Computer Science and Technology in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234) and B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
 My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs). 
 
