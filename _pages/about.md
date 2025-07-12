@@ -29,7 +29,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-            <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop/" target="_blank"><strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong></a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @IEEE CloudCom 2025</strong></a>. The call for papers is now open! We warmly welcome your submissions!</p>
+            <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop/" target="_blank"><strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong></a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. The call for papers is now open! We warmly welcome your submissions!</p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
 	    <p>[05.2024] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
@@ -65,15 +65,18 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 <span class='anchor' id='academic-services'></span>
 
 # 💁 Academic Service
-#### Journal reviewer
+#### Journal Reviewer
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Communications (TCOM)
 - Future Generation Computer Systems (FGCS)
 
-#### Conference reviewer
+#### Conference Reviewer
 - International Joint Conference on Neural Networks (IJCNN), 2025
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
+
+#### Conference Committee Service
+- Programme Committee & Track Chair @ IEEE CloudCom 2025 
 
 <span class='anchor' id='internships'></span>
 
