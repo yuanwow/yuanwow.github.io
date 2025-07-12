@@ -39,6 +39,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 	    <p>[10.2023] 🎉 One paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
 	</div>
+<br>
 
 # 📝 Publications 
 (*= Equal Contribution)
