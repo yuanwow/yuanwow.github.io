@@ -29,7 +29,7 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section [''Secure and Efficient Distributed Machine Learning in Cloud Computing''](http://www.cloudcom2025.org/secure-ml-workshop) held in [The 16th IEEE International Conference on Cloud Computing Technology and Science @IEEE CloudCom 2025 (conjunction with IEEE Transactions on Cloud Computing & The Journal of Cloud Computing by Springer)](http://www.cloudcom2025.org/index). The call for papers is now open — we warmly welcome your submissions!</p>
+	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section [<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>](http://www.cloudcom2025.org/secure-ml-workshop) held in [The 16th IEEE International Conference on Cloud Computing Technology and Science @IEEE CloudCom 2025 (conjunction with IEEE Transactions on Cloud Computing & The Journal of Cloud Computing by Springer)](http://www.cloudcom2025.org/index). The call for papers is now open — we warmly welcome your submissions!</p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
 	    <p>[05.2024] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
