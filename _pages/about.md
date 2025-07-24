@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🍾 Biography
-Hi! I’m an incoming PhD student in the [Department of Electrical and Electronic Engineering (EEE)](https://www.eee.hku.hk/) at the [University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Edith Cheuk Han Ngai](https://www.eee.hku.hk/people/echngai/). Previously, I obtained my M.E. Degree in Computer Science and Technology in the [School of Artificial Intelligence (SAI)](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234) and B.Eng. in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
+Hi! I’m an incoming PhD student in the [Department of Electrical and Electronic Engineering (EEE)](https://www.eee.hku.hk/) at the [University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Edith Cheuk Han Ngai](https://www.eee.hku.hk/people/echngai/). Previously, I obtained my M.E. degree in Computer Science and Technology in the [School of Artificial Intelligence (SAI)](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234) and B.E. degree in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
 My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs). 
 
