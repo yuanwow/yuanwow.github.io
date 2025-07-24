@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenhao Yuan"
   avatar           : "images/Wenhao Yuan_large.png"
-  bio              : "The University of Hong Kong (HKU)"
-  location         : "Pok Fu Lam, Hong Kong, S.A.R."
+  bio              : "The University of Hong Kong"
+  location         : "Pok Fu Lam, Hong Kong."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gkWbT8cAAAAJ&hl=en"
