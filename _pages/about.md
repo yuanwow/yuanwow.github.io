@@ -78,7 +78,8 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
 
 #### Conference Committee Service
-- Programme Committee & Track Chair @ IEEE CloudCom 2025 
+- Programme Committee & Track Chair @ IEEE CloudCom 2025
+- Program Committee @ AAAI 2026
 
 <span class='anchor' id='internships'></span>
 
