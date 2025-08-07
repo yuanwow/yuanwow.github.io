@@ -85,7 +85,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
 
 
-# ⛰️ Life
+# ⛰️ Life beyond Research
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -97,16 +97,11 @@ My research interests include Distributed Optimization (e.g., Federated Learning
   </div>
   
   <div class="highlight-block">
-    <h3>✍️ Given Credits</h3>
+    <h3>🐈</h3>
     <ul>
-      <li><strong>First</strong> CAST “<strong>Young Talent Support Project Doctoral Special Program</strong>”</li>
-      <li>CEDF “<strong>Endeavor Scholarship — Integrated Circuit Talent Program</strong>”</li>
-      <li><a href="https://scholar.google.com/citations?user=rRcc9eoAAAAJ&hl=zh-CN" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-254%20Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Google Scholar Citations">
-</a></li>
-	<li><a href="https://github.com/RoyZry98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Stars%20287-9cf?logo=GitHub&labelColor=f6f6f6&color=EC707D&logoColor=000000&style=flat" alt="GitHub Stars">
-</a></li>
+      <img src="images/qiaoqiao.jpg" alt="family Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+     <br>
+	    <li>We own a lovely and naughty cat named Fries(薯条🍟)！</li>
     </ul>
   </div>
   
