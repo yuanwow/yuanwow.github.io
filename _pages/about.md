@@ -99,13 +99,38 @@ My research interests include Distributed Optimization (e.g., Federated Learning
   
 <div class="highlight-block">
   <h3>🐈</h3>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="images/fries_1.jpg" alt="Fries the Cat" style="width: 200px; height: auto; border-radius: 8px;">
-    <img src="images/fries_2.jpg" alt="Fries Sleeping" style="width: 200px; height: auto; border-radius: 8px;">
+  <div style="text-align: center;">
+    <img id="catImage" src="images/fries_1.jpg" alt="Fries" style="width: 300px; height: auto; border-radius: 10px;">
+    <br>
+    <button onclick="prevImage()">⬅️ Prev</button>
+    <button onclick="nextImage()">Next ➡️</button>
   </div>
   <ul>
     <li>We own a lovely and naughty cat named Fries (薯条🍟)!!!</li>
   </ul>
 </div>
+
+<script>
+  const images = [
+    'images/fries_1.jpg',
+    'images/fries_2.jpg',
+    'images/fries_3.jpg'
+  ];
+  let currentIndex = 0;
+
+  function updateImage() {
+    document.getElementById('catImage').src = images[currentIndex];
+  }
+
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateImage();
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateImage();
+  }
+</script>
   
 </div>
