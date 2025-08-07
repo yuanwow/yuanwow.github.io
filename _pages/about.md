@@ -40,6 +40,8 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 	</div>
 <br>
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
 (*= Equal Contribution)
 
