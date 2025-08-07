@@ -86,6 +86,8 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 💻 Internships 
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
 
+# 
+
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
