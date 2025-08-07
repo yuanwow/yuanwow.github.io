@@ -113,8 +113,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 <script>
   const images = [
     'images/fries_1.jpg',
-    'images/fries_2.jpg',
-    'images/fries_3.jpg'
+    'images/fries_2.jpg'
   ];
   let currentIndex = 0;
 
