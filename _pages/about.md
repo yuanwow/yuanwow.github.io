@@ -24,8 +24,6 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 <strong>I’m actively looking forward to collaborating with self-motivated researchers in FL, LLMs, etc. Feel free to drop me an email if you’re interested!</strong>
 
-
-
 <br>
 
 # 🔥 News
@@ -51,6 +49,11 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 - <code class="badge">IJCNN'24</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE'23</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 
+# 📖 Educations
+- *2025.09 - current*, PhD, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong S.A.R. 
+- *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
+- *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
+
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
@@ -59,12 +62,6 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 - Excellent Graduate Academic Scholarship (2022-2024)
 - SYSU Excellent Teaching Assistant (2024)
 - The 19th China Post-Graduate Mathematical Contest in Modeling, **National Third Prize** (Dec. 2022)
-
-
-# 📖 Educations
-- *2025.09 - current*, PhD, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong S.A.R. 
-- *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
-- *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan. 
 
 <span class='anchor' id='academic-services'></span>
 
