@@ -20,7 +20,11 @@ redirect_from:
 # 🍾 Biography
 Hi! I’m an incoming PhD student in the [Department of Electrical and Electronic Engineering (EEE)](https://www.eee.hku.hk/) at [The University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Edith Cheuk Han Ngai](https://www.eee.hku.hk/people/echngai/). Previously, I obtained my M.E. degree in Computer Science and Technology in the [School of Artificial Intelligence (SAI)](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234) and B.E. degree in Mechanical Design, Manufacturing and Automation from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
-My research interests include Distributed Optimization (e.g., Federated Learning), and Large Language Models (LLMs). 
+My research interests include Distributed Optimization (e.g., Federated Learning), Large Language Models (LLMs), Mixture of Experts (MoE), etc. 
+
+I’m looking forward to collaborating with self-motivated researchers in the fields of Federated Learning, LLMs, etc. Feel free to drop me an email if you’re interested!
+
+
 
 <br>
 
