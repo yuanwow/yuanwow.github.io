@@ -22,8 +22,9 @@ Hi! I’m an incoming PhD student in the [Department of Electrical and Electroni
 
 My research interests include Distributed Optimization (e.g., Federated Learning), Large Language Models (LLMs), Mixture of Experts (MoE), etc. 
 
+<div class="highlight-blocks">
 I’m looking forward to collaborating with self-motivated researchers in FL, LLMs, etc. Feel free to drop me an email if you’re interested!
-
+</div>
 
 
 <br>
