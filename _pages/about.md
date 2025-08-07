@@ -22,8 +22,6 @@ Hi! I’m an incoming PhD student in the [Department of Electrical and Electroni
 
 My research interests include Distributed Optimization (e.g., Federated Learning), and Large Language Models (LLMs). 
 
-Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), and she is also doing some awesome work on FL and LLMs!
-
 <br>
 
 # 🔥 News
@@ -86,15 +84,15 @@ Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.
 # 💻 Internships 
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
 
-# 
+
+# ⛰️ Life
 
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
     <ul>
-      <li>Research focus on <strong>efficient</strong> and <strong>generalization</strong> learning</li>
-      <li>Efficiency: Dynamic Neural Network</li>
-      <li>Multimodal Generalization: Embodied AI including Robotics and Autonomous Driving</li>
+      <li>Here is [my girlfriend's homepage](https://cc-lynn.github.io/ChenchenLin.github.io/), who is a third-year Master's student at Sun Yat-sen University. ! </li>
+      <li>She is also doing many awesome work focusing on FL and LLMs!</li>
     </ul>
   </div>
   
