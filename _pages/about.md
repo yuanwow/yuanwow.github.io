@@ -87,25 +87,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 # 💻 Internships 
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
-- *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
+
 
 <span class='anchor' id='life-beyond-research'></span>
 
