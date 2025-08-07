@@ -106,7 +106,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
   <div class="highlight-block">
     <h3>🐈</h3>
     <ul>
-      <img src="images/fries_1.jpg" alt="Our Cat" style="display: block; margin: auto; max-width: 300px; height: auto;">
+      <img src="images/fries_1.jpg" alt="Our Cat" style="display: block; margin: auto; max-width: 200px; height: auto;">
      <br>
 	    <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
     </ul>
