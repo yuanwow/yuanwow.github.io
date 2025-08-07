@@ -24,6 +24,16 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 
 <strong>I’m actively looking forward to collaborating with self-motivated researchers in FL, LLMs, etc. Feel free to drop me an email if you’re interested!</strong>
 
+<div class="paper-box">
+  <div class="paper-box">
+    <h3>💖</h3>
+    <ul>
+      <strong>I’m actively looking forward to collaborating with self-motivated researchers in FL, LLMs, etc. Feel free to drop me an email if you’re interested!</strong>
+    </ul>
+  </div>
+  
+</div>
+
 <br>
 
 # 🔥 News
