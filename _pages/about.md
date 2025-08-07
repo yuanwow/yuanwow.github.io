@@ -91,8 +91,8 @@ My research interests include Distributed Optimization (e.g., Federated Learning
   <div class="highlight-block">
     <h3>💖</h3>
     <ul>
-      <li>Here is <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">my girlfriend's homepage</a>, who is a third-year Master's student at Sun Yat-sen University. ! </li>
-      <li>She is also doing many awesome work focusing on FL and LLMs!</li>
+      <li>This is <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">my girlfriend's homepage</a>, who is a third-year Master's student at Sun Yat-sen University. ! </li>
+      <li>She is doing many awesome work focusing on FL and LLMs!</li>
     </ul>
   </div>
   
