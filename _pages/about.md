@@ -94,6 +94,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 # ⛰️ Life beyond Research
 
 <div class="highlight-blocks">
+  <div style="max-width: 600px; margin: auto;">
   <div class="highlight-block">
     <h3>💖</h3>
     <ul>
