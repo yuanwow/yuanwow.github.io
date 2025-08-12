@@ -72,6 +72,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 #### Journal Reviewer
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Communications (TCOM)
 - Future Generation Computer Systems (FGCS)
 
