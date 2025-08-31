@@ -51,6 +51,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 - <code class="badge">IJCNN'24</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE'23</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 
+<br>
 
 # 📖 Educations
 - *2025.09 - current*, PhD, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong S.A.R. 
