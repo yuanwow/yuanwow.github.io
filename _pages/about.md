@@ -74,7 +74,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 # 💁 Academic Service
 #### Journal Reviewer
 - IEEE Transactions on Mobile Computing (TMC)
-- IEEE Transactions on Neural Networks and Learning Systems (TTNLS)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Communications (TCOM)
