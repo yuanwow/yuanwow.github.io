@@ -46,7 +46,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 # 📝 Publications 
 (*= Equal Contribution)
 
-- <code class="badge">CloudCom'25</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/10960763), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
+- <code class="badge">CloudCom'25</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
 - <code class="badge">CIKM'25</code> [Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning](https://dl.acm.org/doi/10.1145/3746252.3761234), **Wenhao Yuan**, Xuehe Wang. 
 - <code class="badge">ToN'25</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning](https://ieeexplore.ieee.org/document/10960763), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">TMC'24</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
