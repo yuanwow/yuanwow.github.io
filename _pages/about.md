@@ -88,6 +88,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 #### Conference Committee Service
 - Program Committee & Track Chair @ IEEE CloudCom 2025
 - Program Committee @ AAAI 2026
+- Program Committee @ IJCAI-ECAI 2026
 
 <span class='anchor' id='internships'></span>
 
