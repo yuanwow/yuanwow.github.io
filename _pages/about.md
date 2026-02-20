@@ -82,7 +82,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - Future Generation Computer Systems (FGCS)
 
 #### Conference Reviewer
-- ICML, 2026
+- International Conference on Machine Learning (ICML), 2026
 - International Joint Conference on Neural Networks (IJCNN), 2025
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
 
