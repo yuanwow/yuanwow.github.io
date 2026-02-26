@@ -22,7 +22,7 @@ Hi! I’m a first-year PhD student in the [Department of Electrical and Electron
 
 My research interests include Large Language Models (LLMs), Agents, Distributed Optimization (e.g., Federated Learning), etc. 
 
-📢 <strong>I’m actively looking forward to collaborating with self-motivated researchers in the field of FL, LLMs, etc. Feel free to drop me an <a href="mailto:wenhao.yuan@connect.hku.hk">email</a> if you’re interested!</strong>
+📢 <strong>I’m actively looking forward to collaborating with self-motivated researchers in the field of LLMs, Agentic AI, etc. Feel free to drop me an <a href="mailto:wenhao.yuan@connect.hku.hk">email</a> if you’re interested!</strong>
 
 <br>
 
