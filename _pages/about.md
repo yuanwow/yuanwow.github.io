@@ -29,7 +29,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'26</strong> (CCF-A). Congratulations to Chenchen!
         <p>[10.2025] 🎉 One paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'25</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
 		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'25</strong> (CCF-B) as first author! See you in Seoul!</p> 
 	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
