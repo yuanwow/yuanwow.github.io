@@ -35,7 +35,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
-	    <p>[05.2024] 🎉 One paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
+	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
 	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong> as first author! See you in Yokohama!</p>
 	    <p>[10.2023] 🎉 One collaborative paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
