@@ -29,14 +29,14 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing</strong>. Congratulations to Chenchen!</p>
+		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong>. Congratulations to Chenchen!</p>
 		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'26</strong> (CCF-A). Congratulations to Chenchen!</p>
         <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'25</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
 		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'25</strong> (CCF-B) as first author! See you in Seoul!</p> 
 	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
-	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>ToN'25</strong> (CCF-A) as first author!</p>
-	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>TMC'24</strong> (CCF-A) as co-first author!</p>
+	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>IEEE Transactions on Networking (ToN)</strong> (CCF-A) as first author!</p>
+	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>IEEE Transactions on Mobile Computing (TMC)</strong> (CCF-A) as co-first author!</p>
 	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong> as first author! See you in Yokohama!</p>
 	    <p>[10.2023] 🎉 One collaborative paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
@@ -48,11 +48,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 📝 Publications 
 (*= Equal Contribution)
 
+- <code class="badge">CVPR'26</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'26</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
 - <code class="badge">CloudCom'25</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
 - <code class="badge">CIKM'25</code> [Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning](https://dl.acm.org/doi/10.1145/3746252.3761234), **Wenhao Yuan**, Xuehe Wang. 
-- <code class="badge">ToN'25</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning](https://ieeexplore.ieee.org/document/10960763), **Wenhao Yuan**, Xuehe Wang.
-- <code class="badge">TMC'24</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
+- <code class="badge">ToN</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning](https://ieeexplore.ieee.org/document/10960763), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">TMC</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 - <code class="badge">IJCNN'24</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE'23</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 
