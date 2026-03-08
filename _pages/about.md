@@ -56,7 +56,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
 
 -  **Wenhao Yuan**, Xuehe Wang
--  The 34th International Conference on Information and Knowledge Management
+-  The 34th International Conference on Information and Knowledge Management (CIKM), 2026 
 -  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
 
 </div>
