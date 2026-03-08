@@ -48,19 +48,17 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 📝 Publications 
 (*= Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/moase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-- **Rongyu Zhang**, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Dan Wang, Yuan Du
-- The AAAI Conference on Artificial Intelligence <br><strong>(AAAI)</strong>, 2026.
-- [[Paper]](https://arxiv.org/pdf/2405.16486) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social)](https://github.com/RoyZry98/MoASE-Pytorch)<font color="red">[Oral Presentation]</font>
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'2026</div><img src='images/mole.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - <code class="badge">TCC</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'26</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
