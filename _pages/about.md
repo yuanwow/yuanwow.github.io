@@ -54,7 +54,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Decomposing the Neural: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**
 
 - **Rongyu Zhang**, Aosong Cheng, Yulin Luo, Gaole Dai, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Dan Wang, Yuan Du
-- The AAAI Conference on Artificial Intelligence <br><strong>(AAAI|<img src="https://img.shields.io/badge/CCF-A-red">)</strong>, 2026.
+- The AAAI Conference on Artificial Intelligence <br><strong>(AAAI)</strong>, 2026.
 - [[Paper]](https://arxiv.org/pdf/2405.16486) [[Code] ![](https://img.shields.io/github/stars/RoyZry98/MoASE-Pytorch?style=social)](https://github.com/RoyZry98/MoASE-Pytorch)<font color="red">[Oral Presentation]</font>
 </div>
 </div>
