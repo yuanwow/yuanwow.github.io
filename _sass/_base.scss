@@ -429,8 +429,8 @@
   
     .badge {
       position: absolute; /* 关键：绝对定位 */
-      top: 2px;          /* 距离顶部 */
-      left: 2px;         /* 距离左侧 */
+      top: 0px;          /* 距离顶部 */
+      left: 4px;         /* 距离左侧 */
       z-index: 2;         /* 保证压在图片上方 */
       
       background-color: #00369f;
