@@ -409,7 +409,8 @@
     }
   
     .paper-box-image {
-      margin: 0 calc(var(--spacing-unit) * 1.2);  // 增加图片区域的左右margin
+       position: relative;
+       margin: 0 calc(var(--spacing-unit) * 1.2);  // 增加图片区域的左右margin
       
       img {
         width: 100%;
@@ -427,6 +428,11 @@
     }
   
     .badge {
+      position: absolute; /* 关键：绝对定位 */
+      top: 12px;          /* 距离顶部 */
+      left: 12px;         /* 距离左侧 */
+      z-index: 2;         /* 保证压在图片上方 */
+      
       background-color: #00369f;
       color: white;
       padding: 0.2em 0.8em;  // 稍微减小badge的内边距
