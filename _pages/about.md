@@ -30,15 +30,15 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong> (CCF-B). Congratulations to Chenchen!</p>
-		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'26</strong> (CCF-A). Congratulations to Chenchen!</p>
-        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'25</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
-		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'25</strong> (CCF-B) as first author! See you in Seoul!</p> 
+		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong> (CCF-A). Congratulations to Chenchen!</p>
+        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
+		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'2025</strong> (CCF-B) as first author! See you in Seoul!</p> 
 	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>IEEE Transactions on Networking (ToN)</strong> (CCF-A) as first author!</p>
 	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>IEEE Transactions on Mobile Computing (TMC)</strong> (CCF-A) as co-first author!</p>
-	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'24 Oral</strong> as first author! See you in Yokohama!</p>
-	    <p>[10.2023] 🎉 One collaborative paper was accepted by <strong>QSHINE'23</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
+	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'2024 Oral</strong> as first author! See you in Yokohama!</p>
+	    <p>[10.2023] 🎉 One collaborative paper was accepted by <strong>QSHINE'2023</strong> and received <strong>Best Papar Award</strong>! See you in Shenzhen!</p>
 	  </div>
 	</div>
 <br>
@@ -50,7 +50,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
