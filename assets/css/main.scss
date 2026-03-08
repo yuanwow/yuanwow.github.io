@@ -115,6 +115,7 @@ h1:before, .anchor:before {
   color: white;
   background-color: #00369f;
   font-size: 0.8em;
+  font-weight: 600;
   border-radius: 4px;  // 可选，增加圆角效果
-  font-family: $header-font-family
+  font-family: $global-font-family
 }
