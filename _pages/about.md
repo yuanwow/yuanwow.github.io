@@ -61,7 +61,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN'2025</div><img src='images/FedPCS_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning**
@@ -73,7 +73,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/FedEnt_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Federated Learning via New Entropy Approach**
@@ -85,6 +85,8 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 
 
+
+## Full Publications
 
 - <code class="badge">TCC</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'26</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
