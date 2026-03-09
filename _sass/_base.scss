@@ -411,7 +411,7 @@
    
     .paper-box-image {
        position: relative;
-       margin: 0 calc(var(--spacing-unit) * 1.2);  // 增加图片区域的左右margin
+       margin: 0 calc(var(--spacing-unit) * 1.0);  // 增加图片区域的左右margin
       
       img {
         width: 100%;
