@@ -397,7 +397,7 @@
     box-shadow: var(--box-shadow);
     transition: var(--transition);
     border: 1px solid rgba(1, 47, 99, 0.08);
-    padding: var(--spacing-unit) calc(var(--spacing-unit) * 0.5);  // 增加左右内边距
+    padding: 2.0rem  /* var(--spacing-unit) calc(var(--spacing-unit) * 1.0);  // 增加左右内边距 */
     margin: calc(var(--spacing-unit) * 0.8) 0;  // 减小外边距
     display: flex; 
     flex-direction: row;  // 确保是水平方向的flex
@@ -414,7 +414,7 @@
        margin: 0 calc(var(--spacing-unit) * 0.4);  // 增加图片区域的左右margin
       
       img {
-        width: 200%;
+        width: 100%;
         border-radius: calc(var(--border-radius) * 0.75);
       }
     } 
