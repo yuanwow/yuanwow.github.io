@@ -411,19 +411,17 @@
    
     .paper-box-image {
        position: relative;
-       width: 42%;
        margin: 0 calc(var(--spacing-unit) * 0.4);  // 增加图片区域的左右margin
       
       img {
-        width: 120%;
+        width: 200%;
         border-radius: calc(var(--border-radius) * 0.75);
       }
     } 
    
     
     .paper-box-text {
-      /* flex: 1;          // 让文字部分占据剩余空间 */
-      width: 58%;
+      flex: 1;          // 让文字部分占据剩余空间
       margin: 0 calc(var(--spacing-unit) * 0.4);  // 增加文字区域的左右margin
       
       h2 {
