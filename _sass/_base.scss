@@ -411,6 +411,7 @@
    
     .paper-box-image {
        position: relative;
+       width: 42%;
        margin: 0 calc(var(--spacing-unit) * 0.4);  // 增加图片区域的左右margin
       
       img {
@@ -421,8 +422,9 @@
    
     
     .paper-box-text {
-      flex: 1;          // 让文字部分占据剩余空间
-      margin: 0 calc(var(--spacing-unit) * 0.8);  // 增加文字区域的左右margin
+      /* flex: 1;          // 让文字部分占据剩余空间 */
+      width: 58%;
+      margin: 0 calc(var(--spacing-unit) * 0.4);  // 增加文字区域的左右margin
       
       h2 {
         margin-top: calc(var(--spacing-unit) * 0.4);  // 减小标题上方间距
