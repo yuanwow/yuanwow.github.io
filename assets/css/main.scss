@@ -41,6 +41,7 @@
 @import "print";
 
 .paper-box {
+    position: relative;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -108,10 +109,11 @@ h1:before, .anchor:before {
     font-size: .8em;
 } */
 .badge {
+  position: absolute;  
   display: inline-block;  // 使其成为行内块元素
   padding-left: 0.1rem;
   padding-right: 0.1rem;
-  margin-top: 0.1em;  
+  /* margin-top: 0.1em;  */
   color: white;
   background-color: #00369f;
   font-size: 0.8em;
