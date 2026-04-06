@@ -110,6 +110,8 @@ h1:before, .anchor:before {
 } */
 .badge {
   position: absolute;  
+  top: 12px;
+  left: 12px;
   display: inline-block;  // 使其成为行内块元素
   padding-left: 0.1rem;
   padding-right: 0.1rem;
