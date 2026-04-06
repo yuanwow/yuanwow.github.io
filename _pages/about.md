@@ -29,7 +29,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[03.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> (CCF-A) as first author!</p> 
+		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> (CCF-A) as first author!</p> 
 		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong> (CCF-B). Congratulations to Chenchen!</p>
 		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong> (CCF-A). Congratulations to Chenchen!</p>
         <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
@@ -51,12 +51,23 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2025</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
 
 -  **Wenhao Yuan**, Xuehe Wang
+-  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
+
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai
 -  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
 
 </div>
@@ -89,7 +100,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
-- <code class="badge">TCC</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://ieeexplore.ieee.org/document/11424011), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
+- <code class="badge">ACL'26</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://ieeexplore.ieee.org/document/11424011), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
 - <code class="badge">TCC</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'26</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
 - <code class="badge">CloudCom'25</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
