@@ -54,9 +54,9 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
+**Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
 
--  **Wenhao Yuan**, Xuehe Wang
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai
 -  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
 
 </div>
@@ -65,9 +65,9 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
+**Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
 
--  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai
+-  **Wenhao Yuan**, Xuehe Wang  
 -  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
 
 </div>
