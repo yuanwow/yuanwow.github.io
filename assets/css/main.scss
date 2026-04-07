@@ -41,6 +41,7 @@
 @import "print";
 
 .paper-box {
+    position: relative;
     display: flex;
     justify-content: left;
     align-items: center;
