@@ -84,6 +84,22 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
+<div class='paper-box'>
+  <span class="paper-badge">ToN'2025</span>
+
+  <div class='paper-box-image'>
+    <img src='images/FedPCS_framework.png' alt="sym" width="100%">
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  
+**A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning**
+
+- **Wenhao Yuan**, Xuehe Wang
+- [[Paper]](https://ieeexplore.ieee.org/document/10960763)
+
+  </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC'2024</div><img src='images/FedEnt_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
