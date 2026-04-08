@@ -51,7 +51,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026 Main</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
@@ -99,15 +99,15 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
-- <code class="badge">ACL'26</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://ieeexplore.ieee.org/document/11424011), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
-- <code class="badge">TCC</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
-- <code class="badge">CVPR'26</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
-- <code class="badge">CloudCom'25</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
-- <code class="badge">CIKM'25</code> [Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning](https://dl.acm.org/doi/10.1145/3746252.3761234), **Wenhao Yuan**, Xuehe Wang. 
-- <code class="badge">ToN</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning](https://ieeexplore.ieee.org/document/10960763), **Wenhao Yuan**, Xuehe Wang.
-- <code class="badge">TMC</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
-- <code class="badge">IJCNN'24</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
-- <code class="badge">QSHINE'23</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">ACL'2026 Main</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://ieeexplore.ieee.org/document/11424011), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
+- <code class="badge">TCC'2026</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
+- <code class="badge">CVPR'2026</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
+- <code class="badge">CloudCom'2025</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
+- <code class="badge">CIKM'2025</code> [Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning](https://dl.acm.org/doi/10.1145/3746252.3761234), **Wenhao Yuan**, Xuehe Wang. 
+- <code class="badge">ToN'2025</code> [A Game-Theoretic Framework for Privacy-Aware Client Sampling in Federated Learning](https://ieeexplore.ieee.org/document/10960763), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">TMC'2024</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
+- <code class="badge">IJCNN'2024</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
+- <code class="badge">QSHINE'2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 
 <br>
 
