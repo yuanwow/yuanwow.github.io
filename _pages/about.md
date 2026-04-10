@@ -57,7 +57,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
 
 -  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai
--  [[Paper]](https://arxiv.org/abs/2604.08401)
+-  [[Arxiv]](https://arxiv.org/abs/2604.08401)[[Paper]](https://arxiv.org/abs/2604.08401)
 
 </div>
 </div>
