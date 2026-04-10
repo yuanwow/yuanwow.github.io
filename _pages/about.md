@@ -57,7 +57,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
 
 -  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai
--  [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761234)
+-  [[Paper]](https://arxiv.org/abs/2604.08401)
 
 </div>
 </div>
@@ -99,7 +99,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
-- <code class="badge">ACL'2026 Main</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://ieeexplore.ieee.org/document/11424011), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
+- <code class="badge">ACL'2026 Main</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://arxiv.org/abs/2604.08401), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
 - <code class="badge">TCC'2026</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'2026</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
 - <code class="badge">CloudCom'2025</code> [Combinatorial Multi-Armed Bandit-based Incentives in Privacy-Preserving Federated Crowdsourcing](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Xuehe Wang. 
