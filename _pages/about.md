@@ -29,6 +29,8 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
+		<p>[04.2026] 🎉 One collaborative paper was accepted by <strong>ICML'2026</strong> (CCF-A). Congratulations to Jian!</p> 
+		<p>[04.2026] 🎉 One paper <strong>Veroic</strong> was accepted by <strong>KnowFM@ACL'2026</strong> as first author!</p> 
 		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> (CCF-A) as first author!</p> 
 		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong> (CCF-B). Congratulations to Chenchen!</p>
 		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong> (CCF-A). Congratulations to Chenchen!</p>
@@ -99,6 +101,8 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
+- <code class="badge">ICML'2026</code> SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning, Jian Chen, Yipeng Du, **Wenhao Yuan**, Shuai Wang, Jinfeng Xu, Zewei Liu, Running Zhao, Edith Cheuk-Han Ngai. 
+- <code class="badge">KnowFM@ACL'2026</code> [Belief-Guided Inference Control for Large Language Model Services via Verifiable Observations](http://arxiv.org/abs/2604.27536), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai.
 - <code class="badge">ACL'2026 Main</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://arxiv.org/abs/2604.08401), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
 - <code class="badge">TCC'2026</code> [Privacy-Aware Incentive Design for Federated Crowdsourcing via Combinatorial Multi-Armed Bandits](https://ieeexplore.ieee.org/document/11424011), Chenchen Lin, **Wenhao Yuan**, Edith Cheuk Han Ngai, Xuehe Wang.
 - <code class="badge">CVPR'2026</code> [Domain Sensitive Federated Learning with Fisher-Informed Pruning](https://ieeexplore.ieee.org/document/11331386), Chenchen Lin, **Wenhao Yuan**, Zhengji Xu, Xuehe Wang. 
