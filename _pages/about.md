@@ -29,7 +29,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[04.2026] 🎉 One collaborative paper was accepted by <strong>ICML'2026</strong> (CCF-A). Congratulations to [Jian Chen](https://cccccj-03.github.io/)!</p> 
+		<p>[04.2026] 🎉 One collaborative paper was accepted by <strong>ICML'2026</strong> (CCF-A). Congratulations to <a href="https://cccccj-03.github.io/" target="_blank">Jian Chen</a>!</p> 
 		<p>[04.2026] 🎉 One paper <strong>Veroic</strong> was accepted by <strong>KnowFM@ACL'2026</strong> as first author!</p> 
 		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> (CCF-A) as first author!</p> 
 		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong> (CCF-B). Congratulations to Chenchen!</p>
