@@ -34,7 +34,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> (CCF-A) as first author!</p> 
 		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong> (CCF-B). Congratulations to Chenchen!</p>
 		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong> (CCF-A). Congratulations to Chenchen!</p>
-        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>! See you in Shenzhen!</p> 
+        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>!</p> 
 		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'2025</strong> (CCF-B) as first author!</p> 
 	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
