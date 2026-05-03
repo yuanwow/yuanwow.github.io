@@ -64,6 +64,17 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KnowFM@ACL'2026</div><img src='images/framework_ACL2026_workshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Belief-Guided Inference Control for Large Language Model Services via Verifiable Observations**
+
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai
+-  [[Paper]](http://arxiv.org/abs/2604.27536)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
