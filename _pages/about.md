@@ -36,7 +36,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong>. Congratulations to Chenchen!</p>
         <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>!</p> 
 		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'2025</strong> as first author!</p> 
-	    <p>[07.2025] 🎉 I am serving as a Program Committee member for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
+	    <p>[07.2025] 🎉 I am serving as a Track Chair for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
 	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>IEEE Transactions on Networking (ToN)</strong> as first author!</p>
 	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>IEEE Transactions on Mobile Computing (TMC)</strong> as co-first author!</p>
@@ -152,6 +152,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - Future Generation Computer Systems (FGCS)
 
 #### Conference Reviewer
+- ACM International Conference on Multimedia (ACMMM), 2026
 - International Conference on Machine Learning (ICML), 2026
 - International Joint Conference on Neural Networks (IJCNN), 2025
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
