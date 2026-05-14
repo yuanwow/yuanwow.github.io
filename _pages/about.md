@@ -134,6 +134,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- ICML'2026 Silver Reviewer
 - **SYSU Excellent Graduate** (2025) 
 - **National Scholarship** (2024) 
 - Excellent Graduate Academic Scholarship (2022-2024)
