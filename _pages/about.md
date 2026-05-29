@@ -165,6 +165,10 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <span class='anchor' id='internships'></span>
 
+# 🧑🏻‍🏫 Teaching Assistant 
+- Distributed systems (ELEC7083), Jan, 2026.
+
+
 # 💻 Internships 
 - *2025.07 - 2025.09*, [Lorem](https://github.com/), China.
 
