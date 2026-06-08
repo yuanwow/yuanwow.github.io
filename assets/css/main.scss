@@ -239,3 +239,37 @@ h1:before, .anchor:before {
     gap: 12px;
   }
 }
+
+.cat-slider {
+  display: flex;
+  width: 300px;
+  max-width: 100%;
+  height: 220px;
+  margin: 0 auto 1em;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  border-radius: 10px;
+  scroll-behavior: smooth;
+}
+
+.cat-slider img {
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  scroll-snap-align: center;
+}
+
+.cat-slider::-webkit-scrollbar {
+  height: 6px;
+}
+
+.cat-slider::-webkit-scrollbar-thumb {
+  background-color: #c8c8c8;
+  border-radius: 999px;
+}
+
+.cat-slider::-webkit-scrollbar-track {
+  background: transparent;
+}
