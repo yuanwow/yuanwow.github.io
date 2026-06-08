@@ -236,10 +236,19 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <div class="highlight-block">
     <h3>🐈</h3>
     <ul>
-      <img src="images/fries_1.jpg" alt="Our Cat" style="display: block; margin: auto; max-width: 300px; height: auto;">
-     <br>
-	    <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
+      <div class="cat-slider">
+  		<img src="images/fries_1.jpg" alt="Fries the cat 1">
+  		<img src="images/fries_1.jpg" alt="Fries the cat 2">
+  		<img src="images/fries_1.jpg" alt="Fries the cat 3">
+	  </div>
+	  <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
     </ul>
   </div>
   
 </div>
+
+<!--
+		<img src="images/fries_1.jpg" alt="Our Cat" style="display: block; margin: auto; max-width: 300px; height: auto;">
+     <br>
+	    <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
+-->
