@@ -143,7 +143,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
   <div class="experience-item">
     <div class="experience-logo-wrap">
-      <img class="experience-logo" src="images/HKU_logo.png" alt="Sun Yat-sen University logo">
+      <img class="experience-logo" src="images/SYSU_logo.png" alt="Sun Yat-sen University logo">
     </div>
     <div class="experience-copy">
       <div class="experience-school">Sun Yat-sen University</div>
