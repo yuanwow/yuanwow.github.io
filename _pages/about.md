@@ -156,7 +156,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
   <div class="experience-item">
     <div class="experience-logo-wrap">
-      <img class="experience-logo" src="images/HKU_logo.png" alt="University of Electronic Science and Technology of China logo">
+      <img class="experience-logo" src="images/UESTC_logo.png" alt="University of Electronic Science and Technology of China logo">
     </div>
     <div class="experience-copy">
       <div class="experience-school">University of Electronic Science and Technology of China</div>
