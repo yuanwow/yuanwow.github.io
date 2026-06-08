@@ -126,10 +126,53 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <br>
 
-# 📖 Educations
-- *2025.09 - current*, PhD, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong S.A.R. 
-- *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
-- *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan.
+<span class='anchor' id='experience'></span>
+
+# 📖 Experience
+
+<div class="experience-list">
+  <div class="experience-item">
+    <div class="experience-logo-wrap">
+      <img class="experience-logo" src="images/hku-logo.png" alt="The University of Hong Kong logo">
+    </div>
+    <div class="experience-copy">
+      <div class="experience-school">The University of Hong Kong</div>
+      <div class="experience-time">2025.09 - current</div>
+      <div class="experience-desc">
+        PhD student, Department of Electrical and Electronic Engineering.
+      </div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo-wrap">
+      <img class="experience-logo" src="images/sysu-logo.png" alt="Sun Yat-sen University logo">
+    </div>
+    <div class="experience-copy">
+      <div class="experience-school">Sun Yat-sen University</div>
+      <div class="experience-time">2022.09 - 2025.06</div>
+      <div class="experience-desc">
+        M.E., School of Artificial Intelligence.
+      </div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo-wrap">
+      <img class="experience-logo" src="images/uestc-logo.png" alt="University of Electronic Science and Technology of China logo">
+    </div>
+    <div class="experience-copy">
+      <div class="experience-school">University of Electronic Science and Technology of China</div>
+      <div class="experience-time">2018.09 - 2022.06</div>
+      <div class="experience-desc">
+        B.E., School of Mechanical and Electrical Engineering.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 
 <span class='anchor' id='honors-and-awards'></span>
 
