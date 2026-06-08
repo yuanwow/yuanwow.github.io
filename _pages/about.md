@@ -236,25 +236,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <div class="highlight-block">
     <h3>🐈</h3>
     <ul>
-      <div class="cat-carousel">
-		  <input type="radio" name="cat-slide" id="cat-slide-1" checked>
-		  <input type="radio" name="cat-slide" id="cat-slide-2">
-		  <input type="radio" name="cat-slide" id="cat-slide-3">
-		  
-	  <div class="cat-slides">
-	    <img src="images/fries_1.jpg" alt="Fries the cat 1">
-	    <img src="images/fries_2.jpg" alt="Fries the cat 2">
-	    <img src="images/fries_1.jpg" alt="Fries the cat 3">
-	  </div>
-		  
-	  <div class="cat-dots">
-	    <label for="cat-slide-1"></label>
-	    <label for="cat-slide-2"></label>
-	    <label for="cat-slide-3"></label>
-	  </div>
-	</div>
-
-	<li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
+      <div class="cat-slider">
+		  <img src="images/fries_1.jpg" alt="Fries the cat 1">
+		  <img src="images/fries_2.jpg" alt="Fries the cat 2">
+		  <img src="images/fries_3.jpg" alt="Fries the cat 3">
+		</div>
+	  <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
     </ul>
   </div>
   
