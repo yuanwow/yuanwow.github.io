@@ -133,7 +133,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo-wrap">
-      <img class="experience-logo" src="images/hku-logo.png" alt="The University of Hong Kong logo">
+      <img class="experience-logo" src="images/HKU_logo.png" alt="The University of Hong Kong logo">
     </div>
     <div class="experience-copy">
       <div class="experience-school">The University of Hong Kong</div>
@@ -146,7 +146,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
   <div class="experience-item">
     <div class="experience-logo-wrap">
-      <img class="experience-logo" src="images/sysu-logo.png" alt="Sun Yat-sen University logo">
+      <img class="experience-logo" src="images/HKU_logo.png" alt="Sun Yat-sen University logo">
     </div>
     <div class="experience-copy">
       <div class="experience-school">Sun Yat-sen University</div>
@@ -159,7 +159,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
   <div class="experience-item">
     <div class="experience-logo-wrap">
-      <img class="experience-logo" src="images/uestc-logo.png" alt="University of Electronic Science and Technology of China logo">
+      <img class="experience-logo" src="images/HKU_logo.png" alt="University of Electronic Science and Technology of China logo">
     </div>
     <div class="experience-copy">
       <div class="experience-school">University of Electronic Science and Technology of China</div>
