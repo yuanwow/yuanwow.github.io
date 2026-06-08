@@ -128,7 +128,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <span class='anchor' id='experience'></span>
 
-# 📖 Experience
+# 📖 Educations
 
 <div class="experience-list">
   <div class="experience-item">
@@ -171,12 +171,14 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   </div>
 </div>
 
+<!--
 <span class='anchor' id='experience'></span>
 
 # 📖 Educations
 - *2025.09 - current*, PhD, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong S.A.R. 
 - *2022.09 - 2025.06*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, Undergraduate, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Sichuan.
+-->
 
 <span class='anchor' id='honors-and-awards'></span>
 
