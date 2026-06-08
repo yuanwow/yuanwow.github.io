@@ -244,7 +244,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 	  <div class="cat-slides">
 	    <img src="images/fries_1.jpg" alt="Fries the cat 1">
 	    <img src="images/fries_2.jpg" alt="Fries the cat 2">
-	    <img src="images/fries_3.jpg" alt="Fries the cat 3">
+	    <img src="images/fries_1.jpg" alt="Fries the cat 3">
 	  </div>
 		  
 	  <div class="cat-dots">
