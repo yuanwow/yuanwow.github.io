@@ -108,8 +108,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
-
-
 ## Full Publications
 
 - <code class="badge">ICML'2026</code> SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning, Jian Chen, Yipeng Du, **Wenhao Yuan**, Shuai Wang, Jinfeng Xu, Zewei Liu, Running Zhao, Edith Cheuk-Han Ngai. 
@@ -124,7 +122,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - <code class="badge">IJCNN'2024</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE'2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
 
-<br>
 
 <span class='anchor' id='experience'></span>
 
