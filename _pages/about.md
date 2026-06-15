@@ -136,7 +136,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
       <div class="experience-school">The University of Hong Kong</div>
       <div class="experience-time">2025.09 - current</div>
       <div class="experience-desc">
-        PhD student, Department of Electrical and Electronic Engineering.
+        PhD, Department of Electrical and Computer Engineering.
       </div>
     </div>
   </div>
