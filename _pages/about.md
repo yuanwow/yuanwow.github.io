@@ -54,6 +54,18 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026 Main</div><img src='images/frame_FedFMX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**
+
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai
+-  [Paper]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026 Main</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
