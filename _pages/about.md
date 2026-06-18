@@ -123,6 +123,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
+- <code class="badge">ECCV'2026</code> Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning, **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai. 
 - <code class="badge">ICML'2026</code> SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning, Jian Chen, Yipeng Du, **Wenhao Yuan**, Shuai Wang, Jinfeng Xu, Zewei Liu, Running Zhao, Edith Cheuk-Han Ngai. 
 - <code class="badge">KnowFM@ACL'2026</code> [Belief-Guided Inference Control for Large Language Model Services via Verifiable Observations](http://arxiv.org/abs/2604.27536), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai.
 - <code class="badge">ACL'2026 Main</code> [Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://arxiv.org/abs/2604.08401), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk Han Ngai.
