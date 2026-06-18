@@ -29,20 +29,20 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[06.2026] 🎉 One paper <strong>FedFMX</strong> was accepted by <strong>ECCV'2026</strong> as first author!</p>
-		<p>[04.2026] 🎉 One collaborative paper was accepted by <strong>ICML'2026</strong>. Congratulations to <a href="https://cccccj-03.github.io/" target="_blank">Jian Chen</a>!</p> 
-		<p>[04.2026] 🎉 One paper <strong>Veroic</strong> was accepted by <strong>KnowFM@ACL'2026</strong> as first author!</p> 
-		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> was accepted by <strong>ACL'2026</strong> as first author!</p> 
-		<p>[03.2026] 🎉 One collaborative paper was accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong>. Congratulations to Chenchen!</p>
-		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> was accepted by <strong>CVPR'2026</strong>. Congratulations to Chenchen!</p>
-        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> was accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>!</p> 
-		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> was accepted by <strong>CIKM'2025</strong> as first author!</p> 
+		<p>[06.2026] 🎉 One paper <strong>FedFMX</strong> got accepted at <strong>ECCV'2026</strong> as the first author!</p>
+		<p>[04.2026] 🎉 One collaborative paper got accepted at <strong>ICML'2026</strong>. Congratulations to <a href="https://cccccj-03.github.io/" target="_blank">Jian Chen</a>!</p> 
+		<p>[04.2026] 🎉 One paper <strong>Veroic</strong> got accepted at <strong>KnowFM@ACL'2026</strong> as the first author!</p> 
+		<p>[04.2026] 🎉 One paper <strong>SAVeR</strong> got accepted at <strong>ACL'2026</strong> as the first author!</p> 
+		<p>[03.2026] 🎉 One collaborative paper got accepted by <strong>IEEE Transactions on Cloud Computing (TCC)</strong>. Congratulations to Chenchen!</p>
+		<p>[02.2026] 🎉 One collaborative paper <strong>FedFIP</strong> got accepted at <strong>CVPR'2026</strong>. Congratulations to Chenchen!</p>
+        <p>[10.2025] 🎉 One collaborative paper <strong>FedCMAB</strong> got accepted by <strong>CloudCom'2025</strong> and received <strong>Best Paper Runner-up Award</strong>!</p> 
+		<p>[08.2025] 🎉 One paper <strong>FedAgile</strong> got accepted at <strong>CIKM'2025</strong> as the first author!</p> 
 	    <p>[07.2025] 🎉 I am serving as a Track Chair for the Special Section <a href="http://www.cloudcom2025.org/secure-ml-workshop" target="_blank">''<strong>Secure and Efficient Distributed Machine Learning in Cloud Computing</strong>''</a> held at <a href="http://www.cloudcom2025.org/index" target="_blank"><strong>The 16th IEEE International Conference on Cloud Computing Technology and Science @ IEEE CloudCom 2025</strong></a>. </p>
 	    <p>[06.2025] 🎉 Honored to be selected as Excellent Graduate in SYSU (<strong>Top 5%</strong>)!</p>
-	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> was accepted by <strong>IEEE Transactions on Networking (ToN)</strong> as first author!</p>
-	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> was accepted by <strong>IEEE Transactions on Mobile Computing (TMC)</strong> as co-first author!</p>
-	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> was accepted by <strong>IJCNN'2024 Oral</strong> as first author! See you in Yokohama!</p>
-	    <p>[10.2023] 🎉 One collaborative paper was accepted by <strong>QSHINE'2023</strong> and received <strong>Best Papar Award</strong>!</p>
+	    <p>[03.2025] 🎉 One paper <strong>FedPCS</strong> got accepted by <strong>IEEE Transactions on Networking (ToN)</strong> as the first author!</p>
+	    <p>[05.2024] 🎉 One collaborative paper <strong>FedEnt</strong> got accepted by <strong>IEEE Transactions on Mobile Computing (TMC)</strong> as the co-first author!</p>
+	    <p>[03.2024] 🎉 One paper <strong>QI-DPFL</strong> got accepted at <strong>IJCNN'2024 Oral</strong> as the first author!</p>
+	    <p>[10.2023] 🎉 One collaborative paper got accepted at <strong>QSHINE'2023</strong> and received <strong>Best Papar Award</strong>!</p>
 	  </div>
 	</div>
 <br>
