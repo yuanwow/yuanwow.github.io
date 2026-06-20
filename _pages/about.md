@@ -205,6 +205,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 # 💁 Academic Service
 #### Journal Reviewer
+- Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
