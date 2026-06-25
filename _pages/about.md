@@ -221,7 +221,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 #### Conference Committee Service
 - Program Committee & Track Chair @ IEEE CloudCom 2025
-- Program Committee @ AAAI 2026
+- Program Committee @ AAAI 2026-2027
 - Program Committee @ IJCAI-ECAI 2026
 
 <span class='anchor' id='internships'></span>
