@@ -50,7 +50,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Selected Publications 
+# 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=gkWbT8cAAAAJ&hl=en)
 (*= Equal Contribution)
 
 <!--
@@ -135,7 +135,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
-## Full Publications
 
 <!--
 
