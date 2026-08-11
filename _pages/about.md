@@ -55,13 +55,13 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**
+**When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
 
--  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai
--  [[Paper]](https://arxiv.org/abs/2606.28835)
+-  **Wenhao Yuan**, Chenchen Lin, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
+-  [[Paper]]
 
 </div>
 </div>
