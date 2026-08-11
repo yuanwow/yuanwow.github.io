@@ -50,10 +50,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
+# 📝 Selected Publications 
 (*= Equal Contribution)
 
+<!--
 ## Selected Publications
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +63,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
 
 -  **Wenhao Yuan**, Chenchen Lin, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
--  [[Paper]]
+-  [Paper]
 
 </div>
 </div>
@@ -135,6 +137,8 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 ## Full Publications
 
+<!--
+
 - <code class="badge">ECCV'2026</code> [Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning](https://arxiv.org/abs/2606.28835), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai. 
 - <code class="badge">ICML'2026</code> SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning, Jian Chen, Yipeng Du, **Wenhao Yuan**, Shuai Wang, Jinfeng Xu, Zewei Liu, Running Zhao, Edith Cheuk-Han Ngai. 
 - <code class="badge">KnowFM@ACL'2026</code> [Belief-Guided Inference Control for Large Language Model Services via Verifiable Observations](https://openreview.net/pdf?id=SjjXZb6hKF), **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai.
@@ -147,7 +151,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - <code class="badge">TMC'2024</code> [Adaptive Federated Learning via New Entropy Approach](https://ieeexplore.ieee.org/abstract/document/10531669), Shensheng Zheng<sup>*</sup>, **Wenhao Yuan<sup>*</sup>**, Xuehe Wang, Lingjie Duan.
 - <code class="badge">IJCNN'2024</code> [QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10651264), **Wenhao Yuan**, Xuehe Wang.
 - <code class="badge">QSHINE'2023</code> [Entrofuse: Clustered Federated Learning Through Entropy Approach](https://link.springer.com/chapter/10.1007/978-3-031-65123-6_6), Kaifei Tu, **Wenhao Yuan**, Xuehe Wang.
-
+-->
 
 <span class='anchor' id='experience'></span>
 
