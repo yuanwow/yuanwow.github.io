@@ -29,7 +29,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-		<p>[08.2026] 🎉 One paper <strong>FedSGA</strong> got accepted at <strong>CIKM'2026</strong> as the first author!</p>
+		<p>[08.2026] 🎉 One paper <strong>FedSGA</strong>, as the first author, and one collaborative paper got accepted at <strong>CIKM'2026</strong>. Congratulations to <a href="https://jinfeng-xu.github.io/" target="_blank">Jinfeng Xu!</p>
 		<p>[06.2026] 🎉 One paper <strong>FedFMX</strong> got accepted at <strong>ECCV'2026</strong> as the first author!</p>
 		<p>[04.2026] 🎉 One collaborative paper got accepted at <strong>ICML'2026</strong>. Congratulations to <a href="https://cccccj-03.github.io/" target="_blank">Jian Chen</a>!</p> 
 		<p>[04.2026] 🎉 One paper <strong>Veroic</strong> got accepted at <strong>KnowFM@ACL'2026</strong> as the first author!</p> 
