@@ -57,7 +57,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 ## Selected Publications
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026(Oral)</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
@@ -102,7 +102,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2025(Oral)</div><img src='images/FedAgile_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Aggregated Gradients-based Adaptive Learning Rate Design in Federated Learning**
