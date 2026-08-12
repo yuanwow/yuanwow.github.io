@@ -51,7 +51,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=gkWbT8cAAAAJ&hl=en)
-(*= Equal Contribution)
+(* = Equal Contribution, † = Corresponding Author)
 
 <!--
 ## Selected Publications
@@ -62,7 +62,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 **When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
 
--  **Wenhao Yuan**, Chenchen Lin, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
+-  **Wenhao Yuan<sup>*</sup>**, Chenchen Lin<sup>*</sup>, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
 -  [Paper]
 
 </div>
