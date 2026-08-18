@@ -63,7 +63,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
 
 -  **Wenhao Yuan<sup>*</sup>**, Chenchen Lin<sup>*</sup>, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
--  [Paper]
+-  [[Paper]](http://arxiv.org/abs/2608.15639)
 
 </div>
 </div>
