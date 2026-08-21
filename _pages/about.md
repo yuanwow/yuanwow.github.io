@@ -58,6 +58,18 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 ## Selected Publications
 -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'2026 Findings</div><img src='images/Pivot_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Leaving the Past Behind: Breaking Personalization Inertia in Long-Term LLM Agents**
+
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Weijie Liu, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai
+-  [Paper]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
