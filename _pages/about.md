@@ -239,6 +239,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Communications (TCOM)
+- IEEE Wireless Communications Letters (WCL)
 - Future Generation Computer Systems (FGCS)
 
 #### Conference Reviewer
