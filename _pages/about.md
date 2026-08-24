@@ -249,9 +249,9 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
 
 #### Conference Committee Service
-- Program Committee & Track Chair @ IEEE CloudCom 2025
 - Program Committee @ AAAI 2026-2027
 - Program Committee @ IJCAI-ECAI 2026
+- Program Committee & Track Chair @ IEEE CloudCom 2025
 
 <span class='anchor' id='internships'></span>
 
