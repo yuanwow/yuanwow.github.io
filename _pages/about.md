@@ -54,9 +54,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=gkWbT8cAAAAJ&hl=en)
 (* = Equal Contribution, † = Corresponding Author)
 
-<!--
-## Selected Publications
--->
+## LLMs & Agent
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'2026 Findings</div><img src='images/Pivot_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,30 +66,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
-
--  **Wenhao Yuan<sup>*</sup>**, Chenchen Lin<sup>*</sup>, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
--  [[Paper]](http://arxiv.org/abs/2608.15639)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/frame_FedFMX.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**
-
--  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai
--  [[Paper]](https://arxiv.org/abs/2606.28835)
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026 Main</div><img src='images/framework_ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,6 +85,31 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 -  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai
 -  [[Paper]](https://openreview.net/pdf?id=SjjXZb6hKF)
+
+</div>
+</div>
+
+
+## Distributed Optimization
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'2026</div><img src='images/FedSGA_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**
+
+-  **Wenhao Yuan<sup>*</sup>**, Chenchen Lin<sup>*</sup>, Wentao Hu, Jian Chen, Jinfeng Xu, Shujie Li, Edith Cheuk Han Ngai
+-  [[Paper]](http://arxiv.org/abs/2608.15639)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/frame_FedFMX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**
+
+-  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai
+-  [[Paper]](https://arxiv.org/abs/2606.28835)
 
 </div>
 </div>
