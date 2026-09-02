@@ -275,7 +275,60 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
       <li>She is also doing some awesome research on FL and LLMs! Welcome to visit and follow her work!</li>
     </ul>
   </div>
+
+
+<div class="highlight-block">
+    <h3>🐈</h3>
+
+    <div class="cat-carousel" data-autoplay="3000">
+      <div class="cat-carousel__viewport">
+
+        <img
+          class="cat-carousel__slide is-active"
+          src="/images/fries_1.jpg"
+          alt="Fries the cat 1"
+        >
+
+        <img
+          class="cat-carousel__slide"
+          src="/images/fries_2.jpg"
+          alt="Fries the cat 2"
+        >
+
+        <img
+          class="cat-carousel__slide"
+          src="/images/fries_3.jpg"
+          alt="Fries the cat 3"
+        >
+
+      </div>
+
+      <div class="cat-carousel__controls">
+        <div
+          class="cat-carousel__dots"
+          aria-label="Choose a photo"
+        ></div>
+
+        <button
+          class="cat-carousel__toggle"
+          type="button"
+          aria-label="Pause carousel"
+        >
+          ❚❚
+        </button>
+      </div>
+    </div>
+
+    <ul>
+      <li>
+        We own a lovely and naughty cat named Fries (薯条🍟)!!
+      </li>
+    </ul>
+  </div>
+</div>
+
   
+<!--
   
   <div class="highlight-block">
     <h3>🐈</h3>
@@ -291,7 +344,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   
 </div>
 
-<!--
+
 		<img src="images/fries_1.jpg" alt="Our Cat" style="display: block; margin: auto; max-width: 300px; height: auto;">
      <br>
 	    <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
