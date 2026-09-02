@@ -3,23 +3,32 @@ document.addEventListener("DOMContentLoaded", function () {
     const slides = Array.from(
       carousel.querySelectorAll(".cat-carousel__slide")
     );
-    const dotsContainer = carousel.querySelector(".cat-carousel__dots");
-    const toggleButton = carousel.querySelector(".cat-carousel__toggle");
+
+    const dotsContainer = carousel.querySelector(
+      ".cat-carousel__dots"
+    );
+
     const interval = Number(carousel.dataset.autoplay) || 3000;
 
-    if (slides.length <= 1) return;
+    if (!dotsContainer || slides.length <= 1) {
+      return;
+    }
 
     let currentIndex = 0;
     let timer = null;
-    let paused = false;
-    let hovered = false;
+
+    // 清空已有圆点，防止重复生成
+    dotsContainer.innerHTML = "";
 
     const dots = slides.map(function (_, index) {
       const button = document.createElement("button");
 
       button.type = "button";
       button.className = "cat-carousel__dot";
-      button.setAttribute("aria-label", `Show photo ${index + 1}`);
+      button.setAttribute(
+        "aria-label",
+        "Show photo " + (index + 1)
+      );
 
       button.addEventListener("click", function () {
         showSlide(index);
@@ -27,6 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       dotsContainer.appendChild(button);
+
       return button;
     });
 
@@ -43,13 +53,14 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function nextSlide() {
-      showSlide((currentIndex + 1) % slides.length);
+      const nextIndex = (currentIndex + 1) % slides.length;
+      showSlide(nextIndex);
     }
 
     function startAutoPlay() {
       clearInterval(timer);
 
-      if (!paused && !hovered && !document.hidden) {
+      if (!document.hidden) {
         timer = setInterval(nextSlide, interval);
       }
     }
@@ -64,40 +75,27 @@ document.addEventListener("DOMContentLoaded", function () {
       startAutoPlay();
     }
 
-    toggleButton.addEventListener("click", function () {
-      paused = !paused;
-
-      toggleButton.textContent = paused ? "▶" : "❚❚";
-      toggleButton.setAttribute(
-        "aria-label",
-        paused ? "Play carousel" : "Pause carousel"
-      );
-
-      paused ? stopAutoPlay() : startAutoPlay();
-    });
-
-    carousel.addEventListener("mouseenter", function () {
-      hovered = true;
-      stopAutoPlay();
-    });
-
-    carousel.addEventListener("mouseleave", function () {
-      hovered = false;
-      startAutoPlay();
-    });
-
-    document.addEventListener("visibilitychange", function () {
-      document.hidden ? stopAutoPlay() : startAutoPlay();
-    });
-
+    // 初始化图片状态
     slides.forEach(function (slide, index) {
+      slide.classList.toggle("is-active", index === 0);
       slide.setAttribute(
         "aria-hidden",
-        index === currentIndex ? "false" : "true"
+        index === 0 ? "false" : "true"
       );
     });
 
-    dots[currentIndex].classList.add("is-active");
+    // 初始化第一个圆点
+    dots[0].classList.add("is-active");
+
+    // 浏览器切换到后台时暂停，回来后继续
+    document.addEventListener("visibilitychange", function () {
+      if (document.hidden) {
+        stopAutoPlay();
+      } else {
+        startAutoPlay();
+      }
+    });
+
     startAutoPlay();
   });
 });
