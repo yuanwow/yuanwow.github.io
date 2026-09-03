@@ -309,6 +309,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
       aria-label="Choose a photo"
     ></div>
   </div>
+  <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
 </div>
 </div>
 
