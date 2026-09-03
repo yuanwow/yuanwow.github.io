@@ -287,6 +287,14 @@ h1:before, .anchor:before {
   overflow: hidden;
   border-radius: 10px;
   background: #f3f3f3;
+
+  cursor: grab;
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.cat-carousel__viewport.is-dragging {
+  cursor: grabbing;
 }
 
 .cat-carousel__slide {
@@ -295,6 +303,9 @@ h1:before, .anchor:before {
   width: 100%;
   height: 100%;
   object-fit: contain;
+
+  -webkit-user-drag: none;
+  user-select: none;
 
   opacity: 0;
   visibility: hidden;
