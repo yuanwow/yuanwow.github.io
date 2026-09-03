@@ -281,9 +281,10 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <h3>🐈</h3>
 
   <div class="cat-carousel" data-autoplay="3000">
-    <div class="cat-carousel__viewport">
+  <div class="cat-carousel__viewport">
+    <div class="cat-carousel__track">
       <img
-        class="cat-carousel__slide is-active"
+        class="cat-carousel__slide"
         src="/images/fries_1.jpg"
         alt="Fries the cat 1"
       >
@@ -300,20 +301,14 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
         alt="Fries the cat 3"
       >
     </div>
-
-    <div class="cat-carousel__controls">
-      <div
-        class="cat-carousel__dots"
-        aria-label="Choose a photo"
-      ></div>
-    </div>
   </div>
 
-  <ul>
-    <li>
-      We own a lovely and naughty cat named Fries (薯条🍟)!!
-    </li>
-  </ul>
+  <div class="cat-carousel__controls">
+    <div
+      class="cat-carousel__dots"
+      aria-label="Choose a photo"
+    ></div>
+  </div>
 </div>
 </div>
 
