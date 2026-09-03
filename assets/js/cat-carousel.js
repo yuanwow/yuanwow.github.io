@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".cat-carousel").forEach(function (carousel) {
+    const viewport = carousel.querySelector(
+      ".cat-carousel__viewport"
+    );
+
     const slides = Array.from(
       carousel.querySelectorAll(".cat-carousel__slide")
     );
@@ -8,89 +12,170 @@ document.addEventListener("DOMContentLoaded", function () {
       ".cat-carousel__dots"
     );
 
-    // 从 HTML 的 data-autoplay="3000" 读取播放间隔
     const interval = Number(carousel.dataset.autoplay) || 3000;
 
-    // 找不到圆点容器或只有一张图片时，不启动轮播
-    if (!dotsContainer || slides.length <= 1) {
+    if (!viewport || !dotsContainer || slides.length <= 1) {
       return;
     }
 
     let currentIndex = 0;
     let timer = null;
 
-    // 清空圆点容器，防止重复生成
+    // 拖动相关状态
+    let isDragging = false;
+    let startX = 0;
+    let currentX = 0;
+    let draggedSlide = null;
+
     dotsContainer.innerHTML = "";
 
-    // 根据图片数量生成圆点
     const dots = slides.map(function (_, index) {
       const button = document.createElement("button");
 
       button.type = "button";
       button.className = "cat-carousel__dot";
-
       button.setAttribute(
         "aria-label",
         "Show photo " + (index + 1)
       );
 
-      // 点击圆点后切换到对应图片
       button.addEventListener("click", function () {
         showSlide(index);
         restartAutoPlay();
       });
 
       dotsContainer.appendChild(button);
-
       return button;
     });
 
-    // 显示指定图片
     function showSlide(index) {
-      // 隐藏当前图片
       slides[currentIndex].classList.remove("is-active");
       slides[currentIndex].setAttribute("aria-hidden", "true");
-
-      // 取消当前圆点的高亮
       dots[currentIndex].classList.remove("is-active");
 
-      // 更新当前图片序号
       currentIndex = index;
 
-      // 显示新的图片
       slides[currentIndex].classList.add("is-active");
       slides[currentIndex].setAttribute("aria-hidden", "false");
-
-      // 高亮新的圆点
       dots[currentIndex].classList.add("is-active");
     }
 
-    // 显示下一张图片
     function nextSlide() {
       const nextIndex = (currentIndex + 1) % slides.length;
       showSlide(nextIndex);
     }
 
-    // 开始自动播放
+    function previousSlide() {
+      const previousIndex =
+        (currentIndex - 1 + slides.length) % slides.length;
+
+      showSlide(previousIndex);
+    }
+
     function startAutoPlay() {
       clearInterval(timer);
       timer = setInterval(nextSlide, interval);
     }
 
-    // 停止自动播放
     function stopAutoPlay() {
       clearInterval(timer);
       timer = null;
     }
 
-    // 点击圆点后重新开始计时
     function restartAutoPlay() {
       stopAutoPlay();
       startAutoPlay();
     }
 
-    // 初始化图片状态：
-    // 第一张显示，其他图片隐藏
+    // 开始拖动
+    viewport.addEventListener("pointerdown", function (event) {
+      // 鼠标只响应左键
+      if (event.pointerType === "mouse" && event.button !== 0) {
+        return;
+      }
+
+      isDragging = true;
+      startX = event.clientX;
+      currentX = event.clientX;
+      draggedSlide = slides[currentIndex];
+
+      stopAutoPlay();
+
+      viewport.classList.add("is-dragging");
+      viewport.setPointerCapture(event.pointerId);
+
+      // 拖动时暂时关闭 transition，图片才能跟随鼠标
+      draggedSlide.style.transition = "none";
+    });
+
+    // 拖动图片
+    viewport.addEventListener("pointermove", function (event) {
+      if (!isDragging || !draggedSlide) {
+        return;
+      }
+
+      currentX = event.clientX;
+
+      const distance = currentX - startX;
+
+      draggedSlide.style.transform =
+        "translateX(" + distance + "px)";
+    });
+
+    // 完成拖动
+    viewport.addEventListener("pointerup", function (event) {
+      if (!isDragging) {
+        return;
+      }
+
+      currentX = event.clientX;
+
+      const distance = currentX - startX;
+      const oldSlide = draggedSlide;
+
+      isDragging = false;
+      draggedSlide = null;
+
+      viewport.classList.remove("is-dragging");
+
+      if (oldSlide) {
+        oldSlide.style.transform = "";
+        oldSlide.style.transition = "";
+      }
+
+      // 向左拖超过 50px：下一张
+      if (distance < -50) {
+        nextSlide();
+      }
+
+      // 向右拖超过 50px：上一张
+      if (distance > 50) {
+        previousSlide();
+      }
+
+      restartAutoPlay();
+    });
+
+    // 拖动意外取消
+    viewport.addEventListener("pointercancel", function () {
+      if (draggedSlide) {
+        draggedSlide.style.transform = "";
+        draggedSlide.style.transition = "";
+      }
+
+      isDragging = false;
+      draggedSlide = null;
+
+      viewport.classList.remove("is-dragging");
+      restartAutoPlay();
+    });
+
+    // 阻止浏览器默认的图片拖动效果
+    viewport.addEventListener("dragstart", function (event) {
+      event.preventDefault();
+    });
+
+    // 初始化图片
     slides.forEach(function (slide, index) {
       slide.classList.toggle("is-active", index === 0);
 
@@ -103,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // 默认高亮第一个圆点
     dots[0].classList.add("is-active");
 
-    // 页面加载完成后直接开始自动播放
+    // 默认开启自动播放
     startAutoPlay();
   });
 });
