@@ -300,14 +300,13 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
       >
     </div>
   </div>
-
+<li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
   <div class="cat-carousel__controls">
     <div
       class="cat-carousel__dots"
       aria-label="Choose a photo"
     ></div>
   </div>
-  <li>We own a lovely and naughty cat named Fries(薯条🍟)!!</li>
 </div>
 </div>
 
