@@ -110,7 +110,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**
 
 -  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Jinfeng Xu, Zewei Liu, Edith Cheuk Han Ngai
--  [[Paper]](https://arxiv.org/abs/2606.28835)
+-  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-37461-5_18)
 
 </div>
 </div>
