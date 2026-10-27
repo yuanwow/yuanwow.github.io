@@ -62,7 +62,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 **Leaving the Past Behind: Breaking Personalization Inertia in Long-Term LLM Agents**
 
 -  **Wenhao Yuan**, Chenchen Lin, Jian Chen, Weijie Liu, Jinfeng Xu, Shuo Yang, Edith Cheuk Han Ngai
--  [[Paper]](https://openreview.net/pdf?id=W16Hb26x6f)
+-  [[Paper]](https://aclanthology.org/2026.findings-emnlp.1744/)
 
 </div>
 </div>
