@@ -232,6 +232,18 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <span class='anchor' id='academic-services'></span>
 
 # 💁 Academic Service
+
+<div class="highlight-blocks">
+  <div class="highlight-block">
+    <h3>Journal Reviewer</h3>
+    <ul>
+      <li>Transactions on Machine Learning Research (TMLR) </li>
+      <li>Transactions on Machine Learning Research (TMLR)</li>
+    </ul>
+  </div>
+</div>
+
+
 #### Journal Reviewer
 - Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Mobile Computing (TMC)
