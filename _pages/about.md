@@ -239,12 +239,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
     <ul>
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
+      		<li> Transactions on Machine Learning Research (TMLR) </li>
       		<p> Transactions on Machine Learning Research (TMLR) </p>
-      		<p> Transactions on Machine Learning Research (TMLR)</p>
 			<p> Transactions on Machine Learning Research (TMLR) </p>
-      		<p> Transactions on Machine Learning Research (TMLR)</p>
+      		<p> Transactions on Machine Learning Research (TMLR) </p>
 			<p> Transactions on Machine Learning Research (TMLR) </p>
-      		<p> Transactions on Machine Learning Research (TMLR)</p>
+      		<p> Transactions on Machine Learning Research (TMLR) </p>
 	    </div>
 	  </div>
     </ul>
