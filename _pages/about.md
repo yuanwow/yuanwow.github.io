@@ -235,7 +235,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <div class="highlight-blocks">
   <div class="highlight-block">
-    <h4>Journal Reviewer</h4>
+    <h3>Journal Reviewer</h3>
     <ul>
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
@@ -251,7 +251,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   </div>
 
   <div class="highlight-block">
-    <h4>Conference Reviewer</h4>
+    <h3>Conference Reviewer</h3>
     <ul>
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
@@ -263,7 +263,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   </div>
 
   <div class="highlight-block">
-    <h4>Conference Committee Service</h4>
+    <h3>Committee Member</h3>
     <ul>
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
