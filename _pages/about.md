@@ -233,50 +233,6 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 # 💁 Academic Service
 
-<div class="highlight-blocks">
-  <div class="highlight-block">
-    <h3>Journal Reviewer</h3>
-    <ul>
-	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  	<div style="height:230px; width:100%; overflow:auto;">
-      		<li> Transactions on Machine Learning Research (TMLR) </li>
-      		<p> Transactions on Machine Learning Research (TMLR) </p>
-			<p> Transactions on Machine Learning Research (TMLR) </p>
-      		<p> Transactions on Machine Learning Research (TMLR) </p>
-			<p> Transactions on Machine Learning Research (TMLR) </p>
-      		<p> Transactions on Machine Learning Research (TMLR) </p>
-	    </div>
-	  </div>
-    </ul>
-  </div>
-
-  <div class="highlight-block">
-    <h3>Conference Reviewer</h3>
-    <ul>
-	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  	<div style="height:230px; width:100%; overflow:auto;">
-      		<p>- Transactions on Machine Learning Research (TMLR) </p>
-      		<p>International Conference on Learning Representations (ICLR), 2027</p>
-		</div>
-	  </div>
-    </ul>
-  </div>
-
-  <div class="highlight-block">
-    <h3>Committee Member</h3>
-    <ul>
-	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  	<div style="height:230px; width:100%; overflow:auto;">
-      		<p>Program Committee @ AAAI 2026-2027</p>
-      		<p>Program Committee @ IJCAI-ECAI 2026</p>
-			<p>Program Committee & Track Chair @ IEEE CloudCom 2025</p>
-		</div>
-	  </div>
-    </ul>
-  </div>
-</div>
-
-
 #### Journal Reviewer
 - Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Mobile Computing (TMC)
@@ -294,7 +250,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - International Joint Conference on Neural Networks (IJCNN), 2025
 - IEEE Congress on Evolutionary Computation (CEC), 2024-2025
 
-#### Conference Committee Service
+#### Committee Service
 - Program Committee @ AAAI 2026-2027
 - Program Committee @ IJCAI-ECAI 2026
 - Program Committee & Track Chair @ IEEE CloudCom 2025
