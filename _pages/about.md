@@ -256,7 +256,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
       		<p>- Transactions on Machine Learning Research (TMLR) </p>
-      		<p>Transactions on Machine Learning Research (TMLR)</p>
+      		<p>International Conference on Learning Representations (ICLR), 2027</p>
 		</div>
 	  </div>
     </ul>
@@ -267,8 +267,9 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
     <ul>
 	  <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  	<div style="height:230px; width:100%; overflow:auto;">
-      		<p>Transactions on Machine Learning Research (TMLR) </p>
-      		<p>Transactions on Machine Learning Research (TMLR)</p>
+      		<p>Program Committee @ AAAI 2026-2027</p>
+      		<p>Program Committee @ IJCAI-ECAI 2026</p>
+			<p>Program Committee & Track Chair @ IEEE CloudCom 2025</p>
 		</div>
 	  </div>
     </ul>
