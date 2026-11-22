@@ -314,37 +314,34 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   </div>
 
   <!-- 右侧：上下两个卡片 -->
-  <div class="academic-service-right">
-    <div class="academic-service-stack">
-      <div class="highlight-block academic-service-card">
-        <h3>Conference Reviewer</h3>
-        <div class="academic-service-scroll">
-		<div style="height:120px; width:100%; overflow:auto;">
-          <ul>
-            <li>International Conference on Learning Representations (ICLR), 2027</li>
-			<li>International World Wide Web Conference (WWW), 2027</li>
-			<li>International Conference on Machine Learning (ICML), 2026</li>
-			<li>ACM International Conference on Multimedia (ACM MM), 2026</li>
-			<li>International Joint Conference on Neural Networks (IJCNN), 2025</li>
-			<li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
-          </ul>
-        </div>
-		</div>
-      </div>
-      <div class="highlight-block academic-service-card">
-        <h3>Committee Service</h3>
-        <div class="academic-service-scroll">
-		  <div style="height:120px; width:100%; overflow:auto;">
-          <ul>
-            <li>Program Committee @ AAAI 2026-2027</li>
-            <li>Program Committee @ IJCAI-ECAI 2026</li>
-            <li>Program Committee &amp; Track Chair @ IEEE CloudCom 2025</li>
-          </ul>
-		</div>
-        </div>
-      </div>
-    </div>
+<div class="academic-service-right">
+  <div class="academic-service-stack">
+	<div class="highlight-block academic-service-card">
+	  <h3>Conference Reviewer</h3>
+	  <div class="academic-service-scroll">
+		<ul>
+		  <li>International Conference on Learning Representations (ICLR), 2027</li>
+		  <li>International World Wide Web Conference (WWW), 2027</li>
+		  <li>International Conference on Machine Learning (ICML), 2026</li>
+		  <li>ACM International Conference on Multimedia (ACM MM), 2026</li>
+		  <li>International Joint Conference on Neural Networks (IJCNN), 2025</li>
+		  <li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
+		</ul>
+	  </div>
+	</div>
+	<div class="highlight-block academic-service-card">
+	  <h3>Committee Service</h3>
+	  <div class="academic-service-scroll">
+		<ul>
+		  <li>Program Committee @ AAAI 2026-2027</li>
+		  <li>Program Committee @ IJCAI-ECAI 2026</li>
+		  <li>Program Committee &amp; Track Chair @ IEEE CloudCom 2025</li>
+		</ul>
+	  </div>
+	</div>
+
   </div>
+</div>
 
 </div>
 
