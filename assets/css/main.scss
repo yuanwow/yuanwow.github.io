@@ -363,12 +363,13 @@ h1:before, .anchor:before {
 .highlight-blocks.academic-service-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  grid-template-rows: repeat(2, 160px);
+  grid-template-rows: minmax(0, 2fr) minmax(0, 1fr);
+  height: 332px;
   gap: 12px 20px;
   align-items: stretch;
 }
 
-/* 让右侧两张卡片直接参与外层网格布局 */
+/* 右侧两张卡片直接参与外层网格布局 */
 .academic-service-grid > .academic-service-right,
 .academic-service-grid .academic-service-stack {
   display: contents;
@@ -385,37 +386,37 @@ h1:before, .anchor:before {
   overflow: hidden;
 }
 
-/* 左侧：跨越两行，总高度 332px */
+/* 左侧：跨越两行 */
 .academic-service-grid > .highlight-block {
   grid-column: 1;
   grid-row: 1 / 3;
 }
 
-/* 右上 */
+/* 右上：占可分配高度的 2/3 */
 .academic-service-grid .academic-service-card:first-child {
   grid-column: 2;
   grid-row: 1;
 }
 
-/* 右下 */
+/* 右下：占可分配高度的 1/3 */
 .academic-service-grid .academic-service-card:last-child {
   grid-column: 2;
   grid-row: 2;
 }
 
-/* 右侧缩小内边距，留出列表空间 */
+/* 右侧卡片内边距 */
 .academic-service-grid .academic-service-card {
   padding: 12px 18px;
 }
 
-/* 标题保持完整 */
+/* 标题不参与压缩 */
 .academic-service-grid .highlight-block > h3 {
   flex: 0 0 auto;
   margin-top: 0;
   margin-bottom: 8px;
 }
 
-/* 左侧列表与右侧列表均在剩余空间内滚动 */
+/* 列表占据剩余空间，超出后滚动 */
 .academic-service-grid > .highlight-block > div,
 .academic-service-grid .academic-service-scroll {
   flex: 1 1 0;
@@ -425,7 +426,7 @@ h1:before, .anchor:before {
   overflow-y: auto;
 }
 
-/* 明确设置滚动条外观 */
+/* 滚动条外观 */
 .academic-service-grid .highlight-block > div::-webkit-scrollbar {
   width: 8px;
 }
@@ -444,7 +445,8 @@ h1:before, .anchor:before {
 @media (max-width: 767px) {
   .highlight-blocks.academic-service-grid {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-rows: 332px 180px 180px;
+    grid-template-rows: 332px 220px 160px;
+    height: auto;
   }
 
   .academic-service-grid > .highlight-block {
