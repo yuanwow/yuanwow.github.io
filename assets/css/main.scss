@@ -357,3 +357,64 @@ h1:before, .anchor:before {
     transition: none;
   }
 }
+
+/* Academic Service：左侧一块，右侧上下两块 */
+.academic-service-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+}
+
+/* 消除原有卡片底部外边距，让两侧准确对齐 */
+.academic-service-grid .highlight-block {
+  margin-bottom: 0;
+  min-width: 0;
+}
+
+/* 右侧不撑高布局，整体高度由左侧决定 */
+.academic-service-right {
+  position: relative;
+  min-width: 0;
+}
+
+.academic-service-stack {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+  gap: var(--spacing-unit);
+}
+
+/* 每个右侧卡片：标题固定，列表独立滚动 */
+.academic-service-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.academic-service-card h3 {
+  flex-shrink: 0;
+}
+
+.academic-service-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+/* 手机上改为从上到下排列 */
+@media (max-width: 767px) {
+  .academic-service-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .academic-service-stack {
+    position: static;
+    grid-template-rows: auto auto;
+  }
+
+  .academic-service-scroll {
+    flex: auto;
+    max-height: 230px;
+  }
+}
