@@ -292,6 +292,46 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 </div>
 
 
+
+<div class="highlight-blocks academic-service-grid">
+
+  <!-- 左侧：保留原来的标题和 230px 滚动区域 -->
+  <div class="highlight-block">
+    <h3>Journal Reviewer</h3>
+    <div style="height:230px; width:100%; overflow:auto;">
+      <ul>
+        <!-- 这里保留原来的 Journal Reviewer 列表 -->
+      </ul>
+    </div>
+  </div>
+
+  <!-- 右侧：上下两个卡片 -->
+  <div class="academic-service-right">
+    <div class="academic-service-stack">
+      <div class="highlight-block academic-service-card">
+        <h3>Conference Reviewer</h3>
+        <div class="academic-service-scroll">
+          <ul>
+            <!-- 这里放原来的 Conference Reviewer 列表 -->
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-block academic-service-card">
+        <h3>Committee Service</h3>
+        <div class="academic-service-scroll">
+          <ul>
+            <li>Program Committee @ AAAI 2026-2027</li>
+            <li>Program Committee @ IJCAI-ECAI 2026</li>
+            <li>Program Committee &amp; Track Chair @ IEEE CloudCom 2025</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
 <span class='anchor' id='internships'></span>
 
 # 🧑🏻‍🏫 Teaching Assistant 
