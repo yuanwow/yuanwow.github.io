@@ -261,6 +261,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 <div class="highlight-blocks">
   <div class="highlight-block">
 	<h3>Journal Reviewer</h3>
+    <ul>
     <div style="height:230px; width:100%; overflow:auto;">
 		<li>Transactions on Machine Learning Research (TMLR)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
@@ -272,6 +273,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 		<li>Knowledge-Based Systems (KBS)</li>
 		<li>Future Generation Computer Systems (FGCS)</li>
 	  </div>
+	  <ul>
   </div>
   <div class="highlight-block">
     <h3>Conference Reviewer</h3>
