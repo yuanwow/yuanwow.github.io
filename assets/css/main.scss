@@ -359,79 +359,106 @@ h1:before, .anchor:before {
 }
 
 
-/* 左侧内容决定整行高度 */
+/* Academic Service */
 .highlight-blocks.academic-service-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  grid-template-rows: auto;
+  grid-template-rows: repeat(2, 160px);
+  gap: 12px 20px;
   align-items: stretch;
 }
 
-/* 左侧卡片 */
+/* 让右侧两张卡片直接参与外层网格布局 */
+.academic-service-grid > .academic-service-right,
+.academic-service-grid .academic-service-stack {
+  display: contents;
+}
+
+/* 三张卡片的公共设置 */
+.academic-service-grid .highlight-block {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* 左侧：跨越两行，总高度 332px */
 .academic-service-grid > .highlight-block {
   grid-column: 1;
-  grid-row: 1;
-  margin-bottom: 0;
-  min-width: 0;
+  grid-row: 1 / 3;
 }
 
-/* 右侧占据同一行，但不参与计算整行高度 */
-.academic-service-grid > .academic-service-right {
+/* 右上 */
+.academic-service-grid .academic-service-card:first-child {
   grid-column: 2;
   grid-row: 1;
-  position: relative;
-  min-width: 0;
-  min-height: 0;
 }
 
-.academic-service-grid .academic-service-stack {
-  position: absolute;
-  inset: 0;
-  display: grid;
-  grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 12px;
+/* 右下 */
+.academic-service-grid .academic-service-card:last-child {
+  grid-column: 2;
+  grid-row: 2;
 }
 
-/* 右侧每张卡片：标题 + 可滚动列表 */
+/* 右侧缩小内边距，留出列表空间 */
 .academic-service-grid .academic-service-card {
-  display: grid;
-  grid-template-rows: auto minmax(0, 1fr);
-  min-height: 0;
-  min-width: 0;
-  margin: 0;
-  overflow: hidden;
-
-  /* 缩小内边距，给列表留出空间 */
   padding: 12px 18px;
 }
 
-.academic-service-grid .academic-service-card h3 {
+/* 标题保持完整 */
+.academic-service-grid .highlight-block > h3 {
+  flex: 0 0 auto;
   margin-top: 0;
   margin-bottom: 8px;
 }
 
+/* 左侧列表与右侧列表均在剩余空间内滚动 */
+.academic-service-grid > .highlight-block > div,
 .academic-service-grid .academic-service-scroll {
+  flex: 1 1 0;
+  height: auto !important;
   min-height: 0;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
-/* 手机端依次排列 */
+/* 明确设置滚动条外观 */
+.academic-service-grid .highlight-block > div::-webkit-scrollbar {
+  width: 8px;
+}
+
+.academic-service-grid .highlight-block > div::-webkit-scrollbar-track {
+  background: #eeeeee;
+  border-radius: 4px;
+}
+
+.academic-service-grid .highlight-block > div::-webkit-scrollbar-thumb {
+  background: #b8b8b8;
+  border-radius: 4px;
+}
+
+/* 手机端：三张卡片依次排列 */
 @media (max-width: 767px) {
   .highlight-blocks.academic-service-grid {
     grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: 332px 180px 180px;
   }
 
-  .academic-service-grid > .academic-service-right {
+  .academic-service-grid > .highlight-block {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .academic-service-grid .academic-service-card:first-child {
     grid-column: 1;
     grid-row: 2;
   }
 
-  .academic-service-grid .academic-service-stack {
-    position: static;
-    grid-template-rows: auto auto;
-  }
-
-  .academic-service-grid .academic-service-scroll {
-    max-height: 180px;
+  .academic-service-grid .academic-service-card:last-child {
+    grid-column: 1;
+    grid-row: 3;
   }
 }
