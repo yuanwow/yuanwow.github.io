@@ -234,6 +234,8 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 # 💁 Academic Service
 
+<!--
+
 #### Journal Reviewer
 - Transactions on Machine Learning Research (TMLR)
 - IEEE Transactions on Mobile Computing (TMC)
@@ -258,8 +260,10 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - Program Committee @ IJCAI-ECAI 2026
 - Program Committee & Track Chair @ IEEE CloudCom 2025
 
+-->
+
 <div class="highlight-blocks academic-service-grid"
-     style="--service-height: 250px;">
+     style="--service-height: 300px;">
 
   <!-- 左侧：保留原来的标题和 230px 滚动区域 -->
   <div class="highlight-block">
