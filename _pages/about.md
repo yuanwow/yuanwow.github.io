@@ -260,17 +260,21 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <div class="highlight-blocks">
   <div class="highlight-block">
-	<h3>💖</h3>
+	<h3>Journal Reviewer</h3>
     <div style="height:230px; width:100%; overflow:auto;">
-		<p>[11.2026] 🎉 Two collaborative papers got accepted at <strong>WSDM'2027</strong> (Main*1, Findings*1) and one collaborative paper got accepted at <strong>KDD'2027</strong>. Congratulations to <a href="https://jinfeng-xu.github.io/" target="_blank">Jinfeng</a>!</p>
-		<p>[08.2026] 🎉 One first-author paper <strong>Pivot</strong> got accepted at <strong>EMNLP'2026 Findings</strong> and one collaborative paper got accepted at <strong>EMNLP'2026 Main Conference</strong>. Congratulations to <a href="https://vinnyliu0817.github.io/" target="_blank">Weijie</a>!</p>
-		<p>[08.2026] 🎉 One co-first-author paper <strong>FedSGA</strong> and one collaborative paper got accepted at <strong>CIKM'2026</strong>. Congratulations to <a href="https://jinfeng-xu.github.io/" target="_blank">Jinfeng</a>!</p>
-		<p>[06.2026] 🎉 One first-author paper <strong>FedFMX</strong> got accepted at <strong>ECCV'2026</strong>!</p>
-		<p>[04.2026] 🎉 One collaborative paper got accepted at <strong>ICML'2026</strong>. Congratulations to <a href="https://cccccj-03.github.io/" target="_blank">Jian Chen</a>!</p> 
+		- Transactions on Machine Learning Research (TMLR)
+		- IEEE Transactions on Mobile Computing (TMC)
+		- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+		- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+		- IEEE Transactions on Industrial Informatics (TII)
+		- IEEE Transactions on Communications (TCOM)
+		- IEEE Wireless Communications Letters (WCL)
+		- Knowledge-Based Systems (KBS)
+- Future Generation Computer Systems (FGCS) 
 	  </div>
   </div>
   <div class="highlight-block">
-    <h3>💖</h3>
+    <h3>Conference Reviewer</h3>
     <ul>
       <li>This is my girlfriend's <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">homepage</a>, who is also a PhD at The University of Hong Kong! </li>
       <li>She is also doing some awesome research on FL and LLMs! Welcome to visit and follow her work!</li>
