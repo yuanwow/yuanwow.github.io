@@ -258,6 +258,24 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - Program Committee @ IJCAI-ECAI 2026
 - Program Committee & Track Chair @ IEEE CloudCom 2025
 
+<div class="highlight-blocks">
+  <div class="highlight-block">
+    <h3>💖</h3>
+    <ul>
+      <li>This is my girlfriend's <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">homepage</a>, who is also a PhD at The University of Hong Kong! </li>
+      <li>She is also doing some awesome research on FL and LLMs! Welcome to visit and follow her work!</li>
+    </ul>
+  </div>
+  <div class="highlight-block">
+    <h3>💖</h3>
+    <ul>
+      <li>This is my girlfriend's <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">homepage</a>, who is also a PhD at The University of Hong Kong! </li>
+      <li>She is also doing some awesome research on FL and LLMs! Welcome to visit and follow her work!</li>
+    </ul>
+  </div>
+</div>
+
+
 <span class='anchor' id='internships'></span>
 
 # 🧑🏻‍🏫 Teaching Assistant 
