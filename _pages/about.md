@@ -273,7 +273,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 		<li>Knowledge-Based Systems (KBS)</li>
 		<li>Future Generation Computer Systems (FGCS)</li>
 	  </div>
-	  <ul>
+	  </ul>
   </div>
   <div class="highlight-block">
     <h3>Conference Reviewer</h3>
