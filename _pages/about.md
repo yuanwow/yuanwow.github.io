@@ -262,15 +262,15 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <div class="highlight-block">
 	<h3>Journal Reviewer</h3>
     <div style="height:230px; width:100%; overflow:auto;">
-		- Transactions on Machine Learning Research (TMLR)
-		- IEEE Transactions on Mobile Computing (TMC)
-		- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-		- IEEE Transactions on Parallel and Distributed Systems (TPDS)
-		- IEEE Transactions on Industrial Informatics (TII)
-		- IEEE Transactions on Communications (TCOM)
-		- IEEE Wireless Communications Letters (WCL)
-		- Knowledge-Based Systems (KBS)
-- Future Generation Computer Systems (FGCS) 
+		<li>Transactions on Machine Learning Research (TMLR)</li>
+		<li>IEEE Transactions on Mobile Computing (TMC)</li>
+		<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+		<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
+		<li>IEEE Transactions on Industrial Informatics (TII)</li>
+		<li>IEEE Transactions on Communications (TCOM)</li>
+		<li>IEEE Wireless Communications Letters (WCL)</li>
+		<li>Knowledge-Based Systems (KBS)</li>
+		<li>Future Generation Computer Systems (FGCS)</li>
 	  </div>
   </div>
   <div class="highlight-block">
