@@ -358,63 +358,80 @@ h1:before, .anchor:before {
   }
 }
 
-/* Academic Service：左侧一块，右侧上下两块 */
-.academic-service-grid {
+
+/* 左侧内容决定整行高度 */
+.highlight-blocks.academic-service-grid {
+  display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: auto;
   align-items: stretch;
 }
 
-/* 消除原有卡片底部外边距，让两侧准确对齐 */
-.academic-service-grid .highlight-block {
+/* 左侧卡片 */
+.academic-service-grid > .highlight-block {
+  grid-column: 1;
+  grid-row: 1;
   margin-bottom: 0;
   min-width: 0;
 }
 
-/* 右侧不撑高布局，整体高度由左侧决定 */
-.academic-service-right {
+/* 右侧占据同一行，但不参与计算整行高度 */
+.academic-service-grid > .academic-service-right {
+  grid-column: 2;
+  grid-row: 1;
   position: relative;
   min-width: 0;
+  min-height: 0;
 }
 
-.academic-service-stack {
+.academic-service-grid .academic-service-stack {
   position: absolute;
   inset: 0;
   display: grid;
-  grid-template-rows: repeat(2, minmax(0, 1fr));
-  gap: var(--spacing-unit);
+  grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 12px;
 }
 
-/* 每个右侧卡片：标题固定，列表独立滚动 */
-.academic-service-card {
-  display: flex;
-  flex-direction: column;
+/* 右侧每张卡片：标题 + 可滚动列表 */
+.academic-service-grid .academic-service-card {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
   min-height: 0;
+  min-width: 0;
+  margin: 0;
   overflow: hidden;
+
+  /* 缩小内边距，给列表留出空间 */
+  padding: 12px 18px;
 }
 
-.academic-service-card h3 {
-  flex-shrink: 0;
+.academic-service-grid .academic-service-card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
 }
 
-.academic-service-scroll {
-  flex: 1;
+.academic-service-grid .academic-service-scroll {
   min-height: 0;
   overflow-y: auto;
 }
 
-/* 手机上改为从上到下排列 */
+/* 手机端依次排列 */
 @media (max-width: 767px) {
-  .academic-service-grid {
-    grid-template-columns: 1fr;
+  .highlight-blocks.academic-service-grid {
+    grid-template-columns: minmax(0, 1fr);
   }
 
-  .academic-service-stack {
+  .academic-service-grid > .academic-service-right {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .academic-service-grid .academic-service-stack {
     position: static;
     grid-template-rows: auto auto;
   }
 
-  .academic-service-scroll {
-    flex: auto;
-    max-height: 230px;
+  .academic-service-grid .academic-service-scroll {
+    max-height: 180px;
   }
 }
