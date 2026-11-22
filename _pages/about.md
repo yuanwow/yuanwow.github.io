@@ -298,7 +298,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <!-- 左侧：保留原来的标题和 230px 滚动区域 -->
   <div class="highlight-block">
     <h3>Journal Reviewer</h3>
-    <div style="height:230px; width:100%; overflow:auto;">
+    <div style="height:240px; width:100%; overflow:auto;">
       <ul>
         <li>Transactions on Machine Learning Research (TMLR)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
@@ -319,6 +319,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
       <div class="highlight-block academic-service-card">
         <h3>Conference Reviewer</h3>
         <div class="academic-service-scroll">
+		<div style="height:120px; width:100%; overflow:auto;">
           <ul>
             <li>International Conference on Learning Representations (ICLR), 2027</li>
 			<li>International World Wide Web Conference (WWW), 2027</li>
@@ -328,15 +329,18 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 			<li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
           </ul>
         </div>
+		</div>
       </div>
       <div class="highlight-block academic-service-card">
         <h3>Committee Service</h3>
         <div class="academic-service-scroll">
+		  <div style="height:120px; width:100%; overflow:auto;">
           <ul>
             <li>Program Committee @ AAAI 2026-2027</li>
             <li>Program Committee @ IJCAI-ECAI 2026</li>
             <li>Program Committee &amp; Track Chair @ IEEE CloudCom 2025</li>
           </ul>
+		</div>
         </div>
       </div>
     </div>
