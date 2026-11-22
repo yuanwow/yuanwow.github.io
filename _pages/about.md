@@ -278,10 +278,16 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 	
   <div class="highlight-block">
     <h3>Conference Reviewer</h3>
-    <ul>
-      <li>This is my girlfriend's <a href="https://cc-lynn.github.io/ChenchenLin.github.io/" target="_blank">homepage</a>, who is also a PhD at The University of Hong Kong! </li>
-      <li>She is also doing some awesome research on FL and LLMs! Welcome to visit and follow her work!</li>
-    </ul>
+    <div style="height:230px; width:100%; overflow:auto;">
+		<ul>
+		<li>International Conference on Learning Representations (ICLR), 2027</li>
+		<li>International World Wide Web Conference (WWW), 2027</li>
+		<li>International Conference on Machine Learning (ICML), 2026</li>
+		<li>ACM International Conference on Multimedia (ACM MM), 2026</li>
+		<li>International Joint Conference on Neural Networks (IJCNN), 2025</li>
+		<li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
+		</ul>
+	  </div>
   </div>
 </div>
 
