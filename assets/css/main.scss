@@ -364,7 +364,7 @@ h1:before, .anchor:before {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-rows: minmax(0, 2fr) minmax(0, 1fr);
-  height: 332px;
+  height: var(--service-height, 332px);
   gap: 12px 20px;
   align-items: stretch;
 }
