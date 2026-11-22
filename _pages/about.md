@@ -242,10 +242,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Communications (TCOM)
 - IEEE Wireless Communications Letters (WCL)
+- Knowledge-Based Systems (KBS)
 - Future Generation Computer Systems (FGCS)
 
 #### Conference Reviewer
 - International Conference on Learning Representations (ICLR), 2027
+- International World Wide Web Conference (WWW), 2027
 - International Conference on Machine Learning (ICML), 2026
 - ACM International Conference on Multimedia (ACM MM), 2026
 - International Joint Conference on Neural Networks (IJCNN), 2025
