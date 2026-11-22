@@ -298,7 +298,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
   <!-- 左侧：保留原来的标题和 230px 滚动区域 -->
   <div class="highlight-block">
     <h3>Journal Reviewer</h3>
-    <div style="height:240px; width:100%; overflow:auto;">
+    <div style="height:300px; width:100%; overflow:auto;">
       <ul>
         <li>Transactions on Machine Learning Research (TMLR)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
