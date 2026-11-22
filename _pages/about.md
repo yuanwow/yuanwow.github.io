@@ -300,7 +300,15 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
     <h3>Journal Reviewer</h3>
     <div style="height:230px; width:100%; overflow:auto;">
       <ul>
-        <!-- 这里保留原来的 Journal Reviewer 列表 -->
+        <li>Transactions on Machine Learning Research (TMLR)</li>
+		<li>IEEE Transactions on Mobile Computing (TMC)</li>
+		<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+		<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
+		<li>IEEE Transactions on Industrial Informatics (TII)</li>
+		<li>IEEE Transactions on Communications (TCOM)</li>
+		<li>IEEE Wireless Communications Letters (WCL)</li>
+		<li>Knowledge-Based Systems (KBS)</li>
+		<li>Future Generation Computer Systems (FGCS)</li>
       </ul>
     </div>
   </div>
@@ -312,7 +320,12 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
         <h3>Conference Reviewer</h3>
         <div class="academic-service-scroll">
           <ul>
-            <!-- 这里放原来的 Conference Reviewer 列表 -->
+            <li>International Conference on Learning Representations (ICLR), 2027</li>
+			<li>International World Wide Web Conference (WWW), 2027</li>
+			<li>International Conference on Machine Learning (ICML), 2026</li>
+			<li>ACM International Conference on Multimedia (ACM MM), 2026</li>
+			<li>International Joint Conference on Neural Networks (IJCNN), 2025</li>
+			<li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
           </ul>
         </div>
       </div>
