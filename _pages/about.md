@@ -260,6 +260,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 
 <div class="highlight-blocks">
   <div class="highlight-block">
+	<h3>💖</h3>
     <div style="height:230px; width:100%; overflow:auto;">
 		<p>[11.2026] 🎉 Two collaborative papers got accepted at <strong>WSDM'2027</strong> (Main*1, Findings*1) and one collaborative paper got accepted at <strong>KDD'2027</strong>. Congratulations to <a href="https://jinfeng-xu.github.io/" target="_blank">Jinfeng</a>!</p>
 		<p>[08.2026] 🎉 One first-author paper <strong>Pivot</strong> got accepted at <strong>EMNLP'2026 Findings</strong> and one collaborative paper got accepted at <strong>EMNLP'2026 Main Conference</strong>. Congratulations to <a href="https://vinnyliu0817.github.io/" target="_blank">Weijie</a>!</p>
