@@ -263,7 +263,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 -->
 
 <div class="highlight-blocks academic-service-grid"
-     style="--service-height: 300px;">
+     style="--service-height: 350px;">
 
   <!-- 左侧：保留原来的标题和 230px 滚动区域 -->
   <div class="highlight-block">
