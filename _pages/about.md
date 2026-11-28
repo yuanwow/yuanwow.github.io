@@ -292,7 +292,7 @@ My research interests include Large Language Models (LLMs), Agents, Distributed 
 		<ul>
 		  <li>International Conference on Learning Representations (ICLR), 2027</li>
 		  <li>International World Wide Web Conference (WWW), 2027</li>
-		  <li>International Conference on Machine Learning (ICML), 2026</li>
+		  <li>International Conference on Machine Learning (ICML), 2026-2027</li>
 		  <li>ACM International Conference on Multimedia (ACM MM), 2026</li>
 		  <li>International Joint Conference on Neural Networks (IJCNN), 2025</li>
 		  <li>IEEE Congress on Evolutionary Computation (CEC), 2024-2025</li>
